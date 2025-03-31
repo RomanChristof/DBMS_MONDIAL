@@ -10,9 +10,9 @@ It is based on https://github.com/jeschaef/DBMSBlockSS25 and integrates MONDIAL 
 
 1. Install & start [Docker](https://docs.docker.com/get-started/get-docker/) (if not already on your machine)
 2. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if not already on your machine)
-3. Clone the repository `git clone https://github.com/jeschaef/DBMSBlockSS25`
-4. Change into the project directory cd DBMSBlockSS25
-5. Download the import_email.cql file from [here](https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi76drYoUYfX4TMo42SVkN/import_email.cql) and copy it to the folder [scripts/cassandra](scripts/cassandra) (too big for this repo, can take some minutes to download)
+3. Clone the repository `git clone https://github.com/RomanChristof/DBMS_MONDIAL`
+4. Change into the project directory cd DBMS_MONDIAL
+
 
 ## Configuration
 
