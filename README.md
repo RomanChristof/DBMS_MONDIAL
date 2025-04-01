@@ -19,6 +19,7 @@ It is based on https://github.com/jeschaef/DBMSBlockSS25 and integrates MONDIAL 
 1. Create a .env-file (regular textfile named `.env`) in the project folder
 2. Copy the environment variable names from [.env_template](.env_template)
 3. Set values for each of the environment variables (usernames/emails + passwords) in .env, e.g., `PG_USER=postgres`
+4. Copy "mondial-inputs.psql" and "mondial-schema.psql" from [MONDIAL](https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL) to [Postgres folder](scripts/postgres)
 
 Alternatively, you can replace the environment variables with the actual values in the [docker-compose.yml](docker-compose.yml) directly.
 
