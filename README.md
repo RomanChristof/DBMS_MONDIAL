@@ -1,7 +1,7 @@
 # MONDIAL 
 
 This is the repository for the MONDIAL-Project of the DBMS practical course at Goethe University Frankfurt. 
-It is based on https://github.com/jeschaef/DBMSBlockSS25 and integrates MONDIAL data from https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL.
+It is based on [DBMSBlockSS25](https://github.com/jeschaef/DBMSBlockSS25) and integrates [MONDIAL](https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL) data 
 
 
 # Installation
