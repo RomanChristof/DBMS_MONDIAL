@@ -12,12 +12,12 @@ It is based on [DBMSBlockSS25](https://github.com/jeschaef/DBMSBlockSS25) and in
 2. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if not already on your machine)
 3. Clone the repository `git clone https://github.com/RomanChristof/DBMS_MONDIAL`
 4. Change into the project directory cd DBMS_MONDIAL
+5. Copy "mondial-inputs.psql" and "mondial-schema.psql" from [MONDIAL](https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL) to [Postgres folder](scripts/postgres)
 
 
 ## Configuration
 
-1. Set values for each of the environment variables (usernames/emails + passwords) in .env, e.g., `PG_USER=postgres`
-2. Copy "mondial-inputs.psql" and "mondial-schema.psql" from [MONDIAL](https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL) to [Postgres folder](scripts/postgres)
+Set values for each of the environment variables (usernames/emails + passwords) in .env, e.g., `PG_USER=postgres`
 
 Alternatively, you can replace the environment variables with the actual values in the [docker-compose.yml](docker-compose.yml) directly.
 
