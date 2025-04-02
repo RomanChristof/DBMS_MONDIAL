@@ -93,7 +93,6 @@ services:
       start_period: 60s
     entrypoint: ["/var/lib/neo4j/import/neo4j_entrypoint.sh"]
 
-
   mongo:
     image: mongo
     environment:
@@ -121,3 +120,4 @@ services:
       mongo:
         condition: service_healthy
     restart: always
+ 
