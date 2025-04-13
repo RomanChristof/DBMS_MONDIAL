@@ -1,0 +1,610 @@
+city,country,province,localname
+Athina,GR,Attikis,Î‘Î¸Î®Î½Î±
+Peiraias,GR,Attikis,Î ÎµÎ¹ÏÎ±Î¹Î¬Ï‚
+Peristeri,GR,Attikis,Î ÎµÏÎ¹ÏƒÏ„Î­ÏÎ¹
+Acharnes,GR,Attikis,Î‘Ï‡Î±ÏÎ½Î­Ï‚
+Patra,GR,Dytikis Elladas,Î Î¬Ï„ÏÎ±
+Ioannina,GR,Ipeiroy,Î™Ï‰Î±Î½Î½Î¹Ï„ÏŽÎ½
+Thessaloniki,GR,Kentrikis Makedonias,Î˜ÎµÏƒÏƒÎ±Î»Î¿Î½Î¯ÎºÎ·
+Iraklio,GR,Kritis,Î—ÏÎ¬ÎºÎ»ÎµÎ¹Î¿
+Chania,GR,Kritis,Î§Î±Î½Î¯Ï‰Î½
+Rhodes,GR,Notioy Aigaioy,Î¡ÏŒÎ´Î¿Ï…
+Lamia,GR,Stereas Elladas,Î›Î±Î¼Î¯Î±
+Chalkida,GR,Stereas Elladas,Î§Î±Î»ÎºÎ¹Î´Î­Ï‰Î½
+Larissa,GR,Thessalias,Î›Î¬ÏÎ¹ÏƒÎ±
+Volos,GR,Thessalias,Î’ÏŒÎ»Î¿Ï‚
+Nicosia,CY,Cyprus,Î›ÎµÏ…ÎºÏ‰ÏƒÎ¯Î±
+Larnaka,CY,Cyprus,Î›Î¬ÏÎ½Î±ÎºÎ±
+Lemesos,CY,Cyprus,Î›ÎµÎ¼ÎµÏƒÏŒÏ‚
+Skopje,MK,North Macedonia,Ð“Ñ€Ð°Ð´ Ð¡ÐºÐ¾Ð¿Ñ˜Ðµ
+Kumanovo,MK,North Macedonia,Ð“Ñ€Ð°Ð´ ÐšÑƒÐ¼Ð°Ð½Ð¾Ð²Ð¾
+Beograd,SRB,Serbia,Ð‘ÐµÐ¾Ð³Ñ€Ð°Ð´
+Novi Sad,SRB,Serbia,ÐÐ¾Ð²Ð¸ Ð¡Ð°Ð´
+Kragujevac,SRB,Serbia,ÐšÑ€Ð°Ð³ÑƒÑ˜ÐµÐ²Ð°Ñ†
+NiÅ¡,SRB,Serbia,ÐÐ¸Ñˆ
+Brest,BY,Brest,Ð‘Ñ€ÐµÑÑ‚
+Baranavichy,BY,Brest,Ð‘Ð°Ñ€Ð°ÌÐ½Ð°Ð²Ñ–Ñ‡Ñ‹
+Pinsk,BY,Brest,ÐŸÑ–ÌÐ½ÑÐº
+Vitebsk,BY,Vitebsk,Ð’Ð¸Ñ‚ÐµÐ±ÑÐº
+Orsha,BY,Vitebsk,ÐžÌÑ€ÑˆÐ°
+Novopolotsk,BY,Vitebsk,ÐÐ°Ð²Ð°Ð¿Ð¾Ð»Ð°Ñ†Ðº
+Gomel,BY,Gomel,Ð“Ð¾Ð¼ÐµÐ»ÑŒ
+Mazyr,BY,Gomel,ÐœÐ°Ð·Ñ‹Ñ€
+Grodno,BY,Grodno,Ð“Ñ€Ð¾Ð´Ð½Ð¾
+Mahiljou,BY,Mahiljou,ÐœÐ¾Ð³Ð¸Ð»ÐµÐ²
+Bobruysk,BY,Mahiljou,Ð‘Ð¾Ð±Ñ€ÑƒÐ¹ÑÐº
+Barysaw,BY,Minsk,Ð‘Ð°Ñ€Ñ‹ÑÐ°Ñž
+Minsk,BY,Minsk City,ÐœÑ–Ð½ÑÐº
+Cerkasy,UA,Cerkaska,Ð§ÐµÑ€ÐºÐ°ÑÐ¸
+Cernihiv,UA,Cernihivska,Ð§ÐµÑ€Ð½Ñ–Ð³Ñ–Ð²
+Cernivci,UA,Cernivecka,Ð§ÐµÑ€Ð½Ñ–Ð²Ñ†Ñ–
+Charkiv,UA,Charkivska,Ð¥Ð°Ñ€ÐºÑ–Ð²
+Cherson,UA,Chersonska,Ð¥ÐµÑ€ÑÐ¾Ð½
+Chmelnytskyi,UA,Chmelnytska,Ð¥Ð¼ÐµÐ»ÑŒÐ½Ð¸Ñ†ÑŒÐºÐ¸Ð¹
+Dnipro,UA,Dnipropetrovska,Ð”Ð½Ñ–Ð¿Ñ€Ð¾
+Kryvyi Rih,UA,Dnipropetrovska,ÐšÑ€Ð¸Ð²Ð¸Ð¹ Ð Ñ–Ð³
+Kamianske,UA,Dnipropetrovska,ÐšÐ°Ð¼'ÑÐ½ÑÑŒÐºÐµ
+Nikopol,UA,Dnipropetrovska,ÐÑ–ÐºÐ¾Ð¿Ð¾Ð»ÑŒ
+Pavlohrad,UA,Dnipropetrovska,ÐŸÐ°Ð²Ð»Ð¾Ð³Ñ€Ð°Ð´
+Donetsk,UA,Donetska,Ð”Ð¾Ð½ÐµÑ†ÑŒÐº
+Mariupol,UA,Donetska,ÐœÐ°Ñ€Ñ–ÑƒÐ¿Ð¾Ð»ÑŒ
+MakiÃ¯vka,UA,Donetska,ÐœÐ°ÐºÑ–Ñ—Ð²ÐºÐ°
+Horlivka,UA,Donetska,Ð“Ð¾Ñ€Ð»Ñ–Ð²ÐºÐ°
+Kramatorsk,UA,Donetska,ÐšÑ€Ð°Ð¼Ð°Ñ‚Ð¾Ñ€ÑÑŒÐº
+Sloviansk,UA,Donetska,Ð¡Ð»Ð¾Ð²'ÑÌÐ½ÑÑŒÐº
+Ivano-Frankivsk,UA,Ivano-Frankivska,Ð†Ð²Ð°Ð½Ð¾-Ð¤Ñ€Ð°Ð½ÐºÑ–Ð²ÑÑŒÐº
+Bila Tserkva,UA,KyÃ¯vska,Ð‘Ñ–Ð»Ð° Ð¦ÐµÑ€ÐºÐ²Ð°
+Brovary,UA,KyÃ¯vska,Ð‘Ñ€Ð¾Ð²Ð°Ñ€Ð¸
+Kropywnyzkyj,UA,Kirovohradska,ÐšÑ€Ð¾Ð¿Ð¸Ð²Ð½Ð¸Ñ†ÑŒÐºÐ¸Ð¹
+Luhansk,UA,Luhanska,Ð›ÑƒÐ³Ð°Ð½ÑÑŒÐº
+Sievierodonetsk,UA,Luhanska,Ð¡Ñ”Ð²Ñ”Ñ€Ð¾Ð´Ð¾Ð½ÐµÑ†ÑŒÐº
+Lysychansk,UA,Luhanska,Ð›Ð¸ÑÐ¸Ñ‡Ð°Ð½ÑÑŒÐº
+Alchevsk,UA,Luhanska,ÐÐ»Ñ‡Ã©Ð²ÑÑŒÐº
+Lviv,UA,Lvivska,Ð›ÑŒÐ²Ñ–Ð²
+MykolaÃ¯v,UA,MykolaÃ¯vska,ÐœÐ¸ÐºÐ¾Ð»Ð°Ñ—Ð²
+Odesa,UA,Odeska,ÐžÐ´ÐµÑÐ°
+Poltava,UA,Poltavska,ÐŸÐ¾Ð»Ñ‚Ð°Ð²Ð°
+Kremenchuk,UA,Poltavska,ÐšÑ€ÐµÐ¼ÐµÐ½Ñ‡ÑƒÐº
+Rivne,UA,Rivnenska,Ð Ñ–Ð²Ð½Ðµ
+Sumy,UA,Sumska,Ð¡ÑƒÐ¼Ð¸
+Ternopil,UA,Ternopilska,Ð¢ÐµÑ€Ð½Ð¾Ð¿Ñ–Ð»ÑŒ
+Vinnytsia,UA,Vinnytska,Ð’Ñ–Ð½Ð½Ð¸Ñ†Ñ
+Lutsk,UA,Volynska,Ð›ÑƒÑ†ÑŒÐº
+Uzhhorod,UA,Zakarpatska,Ð£Ð¶Ð³Ð¾Ñ€Ð¾Ð´
+Zaporizhzhia,UA,Zaporizka,Ð—Ð°Ð¿Ð¾Ñ€Ñ–Ð¶Ð¶Ñ
+Melitopol,UA,Zaporizka,ÐœÐµÐ»Ñ–Ñ‚Ð¾Ð¿Ð¾Ð»ÑŒ
+Berdiansk,UA,Zaporizka,Ð‘ÐµÑ€Ð´ÑÌÐ½ÑÑŒÐº
+Zytomyr,UA,Zytomyrska,Ð–Ð¸Ñ‚Ð¾Ð¼Ð¸Ñ€
+Simferopol,UA,Krym,Ð¡Ñ–Ð¼Ñ„ÐµÑ€Ð¾Ð¿Ð¾Ð»ÑŒ
+Kerch,UA,Krym,ÐšÐµÑ€Ñ‡
+Yevpatoria,UA,Krym,Ð„Ð²Ð¿Ð°Ñ‚Ð¾Ñ€Ñ–Ñ
+KyÃ¯v,UA,KyÃ¯v,ÐšÐ¸Ñ—Ð²
+Sevastopol,UA,Sevastopol,Ð¡ÐµÐ²Ð°ÑÑ‚Ð¾Ð¿Ð¾Ð»ÑŒ
+Petrozavodsk,R,Karelia,ÐŸÐµÑ‚Ñ€Ð¾Ð·Ð°Ð²Ð¾Ð´ÑÐº
+Arkhangelsk,R,Arkhangelskaya,ÐÑ€Ñ…Ð°Ð½Ð³ÐµÐ»ÑŒÑÐº
+Vologda,R,Vologodskaya,Ð’Ð¾Ð»Ð¾Ð³Ð´Ð°
+Cherepovets,R,Vologodskaya,Ð§ÐµÑ€ÐµÐ¿Ð¾Ð²ÐµÑ†
+Murmansk,R,Murmanskaya,ÐœÑƒÑ€Ð¼Ð°Ð½ÑÐº
+Kaliningrad,R,Kaliningradskaya,ÐšÐ°Ð»Ð¸Ð½Ð¸Ð½Ð³Ñ€Ð°Ð´
+Sankt Peterburg,R,Sankt-Peterburg,Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³
+Gatchina,R,Leningradskaya,Ð“Ð°ÌÑ‚Ñ‡Ð¸Ð½Ð°
+Velikij Novgorod,R,Novgorodskaya,Ð’ÐµÐ»Ð¸ÐºÐ¸Ð¹ ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´
+Bryansk,R,Bryanskaya,Ð‘Ñ€ÑÐ½ÑÐº
+Nazareth,IL,HaZafon,× ×¦×¨×ª
+Vladimir,R,Vladimirskaya,Ð’Ð»Ð°Ð´Ð¸Ð¼Ð¸Ñ€
+Ivanovo,R,Ivanovskaya,Ð˜Ð²Ð°Ð½Ð¾Ð²Ð¾
+Kaluga,R,Kaluzhskaya,ÐšÐ°Ð»ÑƒÐ³Ð°
+Kostroma,R,Kostromskaya,ÐšÐ¾ÑÑ‚Ñ€Ð¾Ð¼Ð°
+Moskva,R,Moscow,ÐœÐ¾ÑÐºÐ²Ð°
+Orel,R,Orlovskaya,ÐžÑ€ÐµÐ»
+Ryazan,R,Ryazanskaya,Ð ÑÐ·Ð°Ð½ÑŒ
+Smolensk,R,Smolenskaya,Ð¡Ð¼Ð¾Ð»ÐµÐ½ÑÐº
+Tver,R,Tverskaya,Ð¢Ð²ÐµÑ€ÑŒ
+Tula,R,Tulskaya,Ð¢ÑƒÐ»Ð°
+Yaroslavl,R,Yaroslavskaya,Ð¯Ñ€Ð¾ÑÐ»Ð°Ð²Ð»ÑŒ
+Yoshkar-Ola,R,Mariy-El,Ð™Ð¾ÑˆÐºÐ°Ñ€-ÐžÐ»Ð°
+Saransk,R,Mordoviya,Ð¡Ð°Ñ€Ð°Ð½ÑÐº
+Cheboksary,R,Chuvashia,Ð§ÐµÐ±Ð¾ÐºÑÐ°Ñ€Ñ‹
+Kirov,R,Kirovskaya,ÐšÐ¸Ñ€Ð¾Ð²
+Nizhnii Novgorod,R,Nizhnii Novgorodskaya,ÐÐ¸Ð¶Ð½Ð¸Ð¹ ÐÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´
+Belgorod,R,Belgorodskaya,Ð‘ÐµÐ»Ð³Ð¾Ñ€Ð¾Ð´
+Voronezh,R,Voronezhskaya,Ð’Ð¾Ñ€Ð¾Ð½ÐµÐ¶
+Kursk,R,Kurskaya,ÐšÑƒÑ€ÑÐº
+Lipetsk,R,Lipetskaya,Ð›Ð¸Ð¿ÐµÑ†Ðº
+Tambov,R,Tambovskaya,Ð¢Ð°Ð¼Ð±Ð¾Ð²
+Kazan,R,Tatarstan,ÐšÐ°Ð·Ð°Ð½ÑŒ
+Naberezhnye Tchelny,R,Tatarstan,ÐÐ°Ð±ÐµÑ€ÐµÐ¶Ð½Ñ‹Ðµ Ð§ÐµÐ»Ð½Ñ‹
+Astrakhan,R,Astrakhanskaya,ÐÑÑ‚Ñ€Ð°Ñ…Ð°Ð½ÑŒ
+Volgograd,R,Volgogradskaya,Ð’Ð¾Ð»Ð³Ð¾Ð³Ñ€Ð°Ð´
+Volzhsky,R,Volgogradskaya,Ð’Ð¾Ð»Ð¶ÑÐºÐ¸Ð¹
+Penza,R,Penzenskaya,ÐŸÐµÐ½Ð·Ð°
+Samara,R,Samarskaya,Ð¡Ð°Ð¼Ð°Ñ€Ð°
+Tolyatti,R,Samarskaya,Ð¢Ð¾Ð»ÑŒÑÑ‚Ñ‚Ð¸
+Saratov,R,Saratovskaya,Ð¡Ð°Ñ€Ð°Ñ‚Ð¾Ð²
+Ulyanovsk,R,Ulyanovskaya,Ð£Ð»ÑŒÑÐ½Ð¾Ð²ÑÐº
+Rostov-na-Donu,R,Rostovskaya,Ð Ð¾ÑÑ‚Ð¾Ð²-Ð½Ð°-Ð”Ð¾Ð½Ñƒ
+Taganrog,R,Rostovskaya,Ð¢Ð°Ð³Ð°Ð½Ñ€Ð¾Ð³
+Ufa,R,Bashkortostan,Ð£Ñ„Ð°
+Sterlitamak,R,Bashkortostan,Ð¡Ñ‚ÐµÑ€Ð»Ð¸Ñ‚Ð°Ð¼Ð°Ðº
+Izhevsk,R,Udmurtskaya,Ð˜Ð¶ÐµÐ²ÑÐº
+Orenburg,R,Orenburgskaya,ÐžÑ€ÐµÐ½Ð±ÑƒÑ€Ð³
+Perm,R,Permskij,ÐŸÐµÑ€Ð¼ÑŒ
+Makhachkala,R,Dagestan,ÐœÐ°Ñ…Ð°Ñ‡ÐºÐ°Ð»Ð°
+Vladikavkaz,R,North Ossetia-Alania,Ð’Ð»Ð°Ð´Ð¸ÐºÐ°Ð²ÐºÐ°Ð·
+Grozny,R,Chechenskaya,Ð“Ñ€Ð¾Ð·Ð½Ñ‹Ð¹
+Krasnodar,R,Krasnodarskiy,ÐšÑ€Ð°ÑÐ½Ð¾Ð´Ð°Ñ€
+Sochi,R,Krasnodarskiy,Ð¡Ð¾Ñ‡Ð¸
+Novorossiysk,R,Krasnodarskiy,ÐÐ¾Ð²Ð¾Ñ€Ð¾ÑÑÐ¸Ð¹ÑÐº
+Stavropol,R,Stavropolskiy,Ð¡Ñ‚Ð°Ð²Ñ€Ð¾Ð¿Ð¾Ð»ÑŒ
+Kurgan,R,Kurganskaya,ÐšÑƒÑ€Ð³Ð°Ð½
+Yekaterinburg,R,Sverdlovskaya,Ð•ÐºÐ°Ñ‚ÐµÑ€Ð¸Ð½Ð±ÑƒÑ€Ð³
+Nizhny Tagil,R,Sverdlovskaya,ÐÐ¸Ð¶Ð½Ð¸Ð¹ Ð¢Ð°Ð³Ð¸Ð»
+Chelyabinsk,R,Chelyabinskaya,Ð§ÐµÐ»ÑÐ±Ð¸Ð½ÑÐº
+Magnitogorsk,R,Chelyabinskaya,ÐœÐ°Ð³Ð½Ð¸Ñ‚Ð¾Ð³Ð¾Ñ€ÑÐº
+Barnaul,R,Altayskiy,Ð‘Ð°Ñ€Ð½Ð°ÑƒÐ»
+Kemerovo,R,Kemerovskaya,ÐšÐµÐ¼ÐµÑ€Ð¾Ð²Ð¾
+Novokuznetsk,R,Kemerovskaya,ÐÐ¾Ð²Ð¾ÐºÑƒÐ·Ð½ÐµÑ†Ðº
+Novosibirsk,R,Novosibirskaya,ÐÐ¾Ð²Ð¾ÑÐ¸Ð±Ð¸Ñ€ÑÐº
+Berdsk,R,Novosibirskaya,Ð‘ÐµÑ€Ð´ÑÐº
+Omsk,R,Omskaya,ÐžÐ¼ÑÐº
+Tomsk,R,Tomskaya,Ð¢Ð¾Ð¼ÑÐº
+Tyumen,R,Tyumenskaya,Ð¢ÑŽÐ¼ÐµÐ½ÑŒ
+Tobolsk,R,Tyumenskaya,Ð¢Ð¾Ð±Ð¾ÌÐ»ÑŒÑÐº
+Surgut,R,Tyumenskaya,Ð¡ÑƒÑ€Ð³ÑƒÑ‚
+Nizhnevartovsk,R,Tyumenskaya,ÐÐ¸Ð¶Ð½ÐµÐ²Ð°Ñ€Ñ‚Ð¾Ð²ÑÐº
+Ulan-Ude,R,Buryatiya,Ð£Ð»Ð°Ð½-Ð£Ð´Ñ
+Krasnoyarsk,R,Krasnoyarsk,ÐšÑ€Ð°ÑÐ½Ð¾ÑÑ€ÑÐº
+Irkutsk,R,Irkutskaya,Ð˜Ñ€ÐºÑƒÑ‚ÑÐº
+Chita,R,Zabaykalskiy,Ð§Ð¸Ñ‚Ð°
+Yakutsk,R,Sakha,Ð¯ÐºÑƒÑ‚ÑÐº
+Vladivostok,R,Primorskiy,Ð’Ð»Ð°Ð´Ð¸Ð²Ð¾ÑÑ‚Ð¾Ðº
+Khabarovsk,R,Khabarovskiy,Ð¥Ð°Ð±Ð°Ñ€Ð¾Ð²ÑÐº
+Komsomolsk-na-Amure,R,Khabarovskiy,ÐšÐ¾Ð¼ÑÐ¾Ð¼Ð¾Ð»ÑŒÑÐº-Ð½Ð°-ÐÐ¼ÑƒÑ€Ðµ
+Sofia,BG,Bulgaria,Ð¡Ð¾Ñ„Ð¸Ñ
+Plovdiv,BG,Bulgaria,ÐŸÐ»Ð¾Ð²Ð´Ð¸Ð²
+Varna,BG,Bulgaria,Ð’Ð°Ñ€Ð½Ð°
+Burgas,BG,Bulgaria,Ð‘ÑƒÑ€Ð³Ð°Ñ
+Ruse,BG,Bulgaria,Ð ÑƒÑÐµ
+Stara Zagora,BG,Bulgaria,Ð¡Ñ‚Ð°Ñ€Ð° Ð—Ð°Ð³Ð¾Ñ€Ð°
+Pleven,BG,Bulgaria,Ð¡Ñ‚Ð°Ñ€Ð° Ð—Ð°Ð³Ð¾Ñ€Ð°
+Reykjavik,IS,Iceland,ReykjavÃ­k
+Keflavik,IS,Iceland,KeflavÃ­k og NjarÃ°vÃ­kurÃ¾Ã©ttbÃ½li
+Akureyri,IS,Iceland,Akureyri
+Yerevan,ARM,Armenia,ÔµÖ€Ö‡Õ¡Õ¶
+Tbilisi,GE,Georgia,áƒ—áƒ‘áƒ˜áƒšáƒ˜áƒ¡áƒ˜
+Kutaisi,GE,Georgia,áƒ¥áƒ£áƒ—áƒáƒ˜áƒ¡áƒ˜
+Batumi,GE,Georgia,áƒ‘áƒáƒ—áƒ£áƒ›áƒ˜
+Baku,AZ,Azerbaijan,BakÄ±
+Ganja,AZ,Azerbaijan,GÉ™ncÉ™
+Sumgayit,AZ,Azerbaijan,SumqayÄ±t
+BayrÅ«t,RL,Lebanon,Ø¨ÙŠØ±ÙˆØª
+Yerushalayim,IL,Yerushalayim,×™×¨×•×©×œ×™×
+Ramla,IL,HaMerkaz,×¨×ž×œ×”
+Rishon LeZiyyon,IL,HaMerkaz,×¨××©×•×Ÿ ×œ×¦×™×•×Ÿ
+Petah Tiqwa,IL,HaMerkaz,×¤×ª×— ×ª×§×•×•×”
+Netanya,IL,HaMerkaz,× Ö°×ªÖ·× Ö°×™Ö¸×”
+Haifa,IL,Hefa,×—×™×¤×”
+Tel Aviv-Yafo,IL,Tel Aviv,×ª×œ ××‘×™×‘ -×™×¤×•
+Beer Sheva,IL,HaDarom,×‘××¨ ×©×‘×¢
+Ashdod,IL,HaDarom,××©×“×•×“
+Al Hasakah,SYR,Al Hasakah,Ø§Ù„Ø­Ø³ÙƒØ©
+Al Qamishl,SYR,Al Hasakah,Ø§Ù„Ù‚Ø§Ù…Ø´Ù„ÙŠ
+Al Ladhiqiyah,SYR,Al Ladhiqiyah,Ø§Ù„Ù„Ø§Ø°Ù‚ÙŠØ©
+Ar Raqqah,SYR,Ar Raqqah,Ø§Ù„Ø±Ù‚Ø©
+As Suwayda,SYR,As Suwayda,Ø§Ù„Ø³ÙˆÙŠØ¯Ø§Ø¡
+Daraa,SYR,Daraa,Ù…Ø±ÙƒØ² Ø¯Ø±Ø¹Ø§
+Dayr az Zawr,SYR,Dayr az Zawr,Ø¯ÙŠØ± Ø§Ù„Ø²ÙˆØ±
+Dimashq,SYR,Dimashq,Ù…Ø¯ÙŠÙ†Ø© Ø¯Ù…Ø´Ù‚
+Halab,SYR,Halab,Ø­Ù„Ø¨â€Ž
+Manbij,SYR,Halab,Ù…Ù†Ø¨Ø¬
+Hamah,SYR,Hamah,Ø­Ù…Ø§Ø©
+Hims,SYR,Hims,Ø­Ù…Øµ
+Idlib,SYR,Idlib,Ø§Ø¯Ù„Ø¨
+Maarrat an Numan,SYR,Idlib,Ù…Ø¹Ø±Ø© Ø§Ù„Ù†Ø¹Ù…Ø§Ù†
+Duma,SYR,Rif Dimashq,Ø¯ÙˆÙ…Ø§
+Tartus,SYR,Tartus,Ø·Ø±Ø·ÙˆØ³
+Amman,JOR,Jordan,Ø§Ù„Ø¹Ø§ØµÙ…Ø©
+Zarqa,JOR,Jordan,Ø§Ù„Ø²Ø±Ù‚Ø§Ø¡
+Irbid,JOR,Jordan,Ø§Ø±Ø¨Ø¯
+Al Madinah,SA,Al-Madinah Al-Monawarah,Ø§Ù„Ù…Ø¯ÙŠÙ†Ø©
+Yanbu al-Bahr,SA,Al-Madinah Al-Monawarah,ÙŠÙ†Ø¨Ø¹
+Riyadh,SA,Ar-Riyadh,Ø§Ù„Ø±ÙŠØ§Ø¶
+Khamis Mushait,SA,Aseer,Ø®Ù…ÙŠØ³ Ù…Ø´ÙŠØ·
+Ad-Dammam,SA,Ash Sharqiyah,Ø§Ù„Ø¯Ù…Ø§Ù…
+Al-Hufuf,SA,Ash Sharqiyah,Ù±Ù„Ù’Ù‡ÙÙÙÙˆÙ
+Al-Jubail,SA,Ash Sharqiyah,Ø§Ù„Ø¬Ø¨ÙŠÙ„
+Hafar al_Batin,SA,Ash Sharqiyah,Ø­ÙØ± Ø§Ù„Ø¨Ø§Ø·Ù†
+Makkah,SA,Makkah Al-Mokarramah,Ù…ÙƒØ©
+Jeddah,SA,Makkah Al-Mokarramah,Ø¬Ø¯Ø©
+At Taif,SA,Makkah Al-Mokarramah,Ø§Ù„Ø·Ø§Ø¦Ù
+Al ManÄmah,BRN,Bahrain,Ø§Ù„Ù…Ù†Ø§Ù…Ø©
+Doha,Q,Qatar,Ø§Ù„Ø¯ÙˆØ­Ø©
+Al Rayyan,Q,Qatar,Ø§Ù„Ø±ÙŠØ§Ù†
+Abu Dhabi,UAE,United Arab Emirates,Ø£Ø¨ÙˆØ¸Ø¨ÙŠ
+Al Ain,UAE,United Arab Emirates,Ø§Ù„Ø¹ÙŠÙ†
+Dubai,UAE,United Arab Emirates,Ø¯Ø¨ÙŠ
+Al Sharjah,UAE,United Arab Emirates,Ø§Ù„Ø´Ø§Ø±Ù‚Ø©
+Muscat,OM,Oman,Ù…Ø³Ù‚Ø·
+As Seeb,OM,Oman,Ø§Ù„Ø³ÙŠØ¨
+Salalah,OM,Oman,ØµÙŽÙ„ÙŽØ§Ù„ÙŽØ©
+Sanaa,YE,Yemen,ØµÙ†Ø¹Ø§Ø¡
+Aden,YE,Yemen,Ø¹Ø¯Ù†
+Taizz,YE,Yemen,ØªØ¹Ø²
+al Hudaydah,YE,Yemen,Ø§Ù„Ø­Ø¯ÙŠØ¯Ù‡
+Baghdad,IRQ,Baghdad,Ø¨ØºØ¯Ø§Ø¯
+Orumiyeh,IR,West Azarbayejan,Ø§Ø±ÙˆÙ…ÙŠÙ‡
+Khoy,IR,West Azarbayejan,Ø®ÙˆØ¦
+Maragheh,IR,West Azarbayejan,Ù…Ø±Ø§ØºÙ‡
+Tabriz,IR,East Azarbayejan,ØªØ¨Ø±ÙŠØ²
+Kermanshah,IR,Kermanshah,Ú©Ø±Ù…Ø§Ù†Ø´Ø§Ù‡
+Yasuj,IR,Kohgiluyeh and Boyer-Ahmad,ÙŠØ§Ø³ÙˆØ¬
+Bushehr,IR,Bushehr,Ø¨ÙˆØ´Ù‡Ø±
+Shahr-e-Kord,IR,Chaharmahal and Bakhtiyari,Ø´Ù‡Ø±ÙƒØ±Ø¯
+Esfahan,IR,Esfahan,Ø§ØµÙÙ‡Ø§Ù†
+Najafabad,IR,Esfahan,Ù†Ø¬Ù Ø¢Ø¨Ø§Ø¯
+Khomeinishahr,IR,Esfahan,Ø®Ù…ÙŠÙ†ÙŠ Ø´Ù‡Ø±
+Shiraz,IR,Fars,Ø´ÙŠØ±Ø§Ø²
+Rasht,IR,Gilan,Ø±Ø´Øª
+Hamedan,IR,Hamedan,Ù‡Ù…Ø¯Ø§Ù†
+Malayer,IR,Hamedan,Ù…Ù„Ø§ÙŠØ±
+Bandar Abbas,IR,Hormozgan,Ø¨Ù†Ø¯Ø±Ø¹Ø¨Ø§Ø³
+Ilam,IR,Ilam,Ø§ÙŠÙ„Ø§Ù…
+Kerman,IR,Kerman,Ú©Ø±Ù…Ø§Ù†
+Sirjan,IR,Kerman,Ø³ÙŠØ±Ø¬Ø§Ù†
+Mashhad,IR,Khorasan-e-Razavi,Ù…Ø´Ù‡Ø¯
+Sabzevar,IR,Khorasan-e-Razavi,Ø³Ø¨Ø²ÙˆØ§Ø±
+Neyshabur,IR,Khorasan-e-Razavi,Ù†ÙŠØ´Ø§Ø¨ÙˆØ±
+Ahvaz,IR,Khuzestan,Ø§Ù‡ÙˆØ§Ø²
+Khorramshahr,IR,Khuzestan,Ø®Ø±Ù…Ø´Ù‡Ø±
+Dezful,IR,Khuzestan,Ø¯Ø²ÙÙˆÙ„
+Masjed Soleyman,IR,Khuzestan,Ù…Ø³Ø¬Ø¯Ø³Ù„ÙŠÙ…Ø§Ù†
+Abadan,IR,Khuzestan,Ø¢Ø¨Ø§Ø¯Ø§Ù†
+Sanandaj,IR,Kurdestan,Ø³Ù†Ù†Ø¯Ø¬
+Khorramabad,IR,Lorestan,Ø®Ø±Ù… Ø¢Ø¨Ø§Ø¯
+Borujerd,IR,Lorestan,Ø¨Ø±ÙˆØ¬Ø±Ø¯
+Arak,IR,Markazi,Ø§Ø±Ø§Ú©
+Sari,IR,Mazandaran,Ø³Ø§Ø±Ø¦
+Amol,IR,Mazandaran,Ø¢Ù…Ù„
+Babol,IR,Mazandaran,Ø¨Ø§Ø¨Ù„
+Qaemshahr,IR,Mazandaran,Ù‚Ø§Ø¦Ù… Ø´Ù‡Ø±
+Semnan,IR,Semnan,Ø³Ù…Ù†Ø§Ù†
+Zahedan,IR,Sistan and Baluchestan,Ø²Ø§Ù‡Ø¯Ø§Ù†
+Tehran,IR,Tehran,ØªÙ‡Ø±Ø§Ù†
+Kashan,IR,Tehran,ÙƒØ§Ø´Ø§Ù†
+Eslam Shahr,IR,Tehran,Ø§Ø³Ù„Ø§Ù… Ø´Ù‡Ø±
+Yazd,IR,Yazd,ÙŠØ²Ø¯
+Zanjan,IR,Zanjan,Ø²Ù†Ø¬Ø§Ù†
+Ardebil,IR,Ardebil,Ø§Ø±Ø¯Ø¨ÙŠÙ„
+Gorgan,IR,Golestan,Ú¯Ø±Ú¯Ø§Ù†
+Gonbad-e-Kavus,IR,Golestan,Ú¯Ù†Ø¨Ø¯ÙƒØ§ÙˆÙˆØ³
+Karaj,IR,Alborz,ÙƒØ±Ø¬
+Qom,IR,Qom,Ù‚Ù…
+Qazvin,IR,Qazvin,Ù‚Ø²ÙˆÙŠÙ†
+Bojnurd,IR,North Khorasan,Ø¨Ø¬Ù†ÙˆØ±Ø¯
+Birjand,IR,South Khorasan,Ø¨ÙŠØ±Ø¬Ù†Ø¯
+Kabul,AFG,Afghanistan,Ú©Ø§Ø¨Ù„
+Herat,AFG,Afghanistan,Ù‡Ø±Ø§Øª
+Kandahar,AFG,Afghanistan,Ú©Ù†Ø¯Ù‡Ø§Ø±
+Mazar-i-Sharif,AFG,Afghanistan,Ù…Ø²Ø§Ø± Ø´Ø±ÛŒÙ
+JalÄlÄbÄd,AFG,Afghanistan,Ø¬Ù„Ø§Ù„Ø¢Ø¨Ø§Ø¯
+Ashgabat,TM,Ashgabat,AÅŸgabat
+Balkanabat,TM,Balkan,Balkanabat
+Dashhowuz,TM,Dashhowuz,DaÅŸoguz
+Turkmenabat,TM,Lebap,TÃ¼rkmenabat
+Mary,TM,Mary,Mary
+Khujand,TJ,Sughd,Ð¥ÑƒÒ·Ð°Ð½Ð´
+Bochtar,TJ,Khatlon,ÒšÑƒÑ€Ò“Ð¾Ð½Ñ‚ÐµÐ¿Ð¿Ð°
+Kulyab,TJ,Khatlon,ÐšÓ¯Ð»Ð¾Ð±
+Dushanbe,TJ,Dushanbe,Ð”ÑƒÑˆÐ°Ð½Ð±Ðµ
+Bishkek,KG,Kyrgyzstan,Ð‘Ð¸ÑˆÐºÐµÐº
+Osh,KG,Kyrgyzstan,ÐžÑˆ
+Almaty,KZ,Almaty City,ÐÐ»Ð¼Ð°Ñ‚Ñ‹
+Taldykurgan,KZ,Almaty,Ð¢Ð°Ð»Ð´Ñ‹Ò›Ð¾Ñ€Ò“Ð°Ð½
+Koksetau,KZ,Akmola,ÐšÓ©ÐºÑˆÐµÑ‚Ð°Ñƒ
+Aqtobe,KZ,Aktobe,ÐÒ›Ñ‚Ó©Ð±Ðµ
+Atyrau,KZ,Atyrau,ÐÑ‚Ñ‹Ñ€Ð°Ñƒ
+Oral,KZ,West Kazakhstan,ÐžÑ€Ð°Ð»
+Aktau,KZ,Mangistau,ÐÒ›Ñ‚Ð°Ñƒ
+Shymkent,KZ,South-Kazakhstan,Ð¨Ñ‹Ð¼ÐºÐµÐ½Ñ‚
+Pavlodar,KZ,Pavlodar,ÐŸÐ°Ð²Ð»Ð¾Ð´Ð°Ñ€
+Ekibastuz,KZ,Pavlodar,Ð•ÐºÑ–Ð±Ð°ÑÑ‚Ò±Ð·
+Karaganda,KZ,Karaganda,ÒšÐ°Ñ€Ð°Ò“Ð°Ð½Ð´Ñ‹
+Temirtau,KZ,Karaganda,Ð¢ÐµÐ¼Ñ–Ñ€Ñ‚Ð°Ñƒ
+Zhezkazgan,KZ,Karaganda,Ð–ÐµÐ·Ò›Ð°Ð·Ò“Ð°Ð½
+Balkhash,KZ,Karaganda,Ð‘Ð°Ð»Ò›Ð°Ñˆ
+Kustanay,KZ,Kostanai,ÒšÐ¾ÑÑ‚Ð°Ð½Ð°Ð¹
+Rudniy,KZ,Kostanai,Ð ÑƒÐ´Ð½Ñ‹Ð¹
+Kyzylorda,KZ,Kyzylorda,ÒšÑ‹Ð·Ñ‹Ð»Ð¾Ñ€Ð´Ð°
+Ã–skemen,KZ,East-Kazakhstan,Ó¨ÑÐºÐµÐ¼ÐµÐ½
+Semei,KZ,East-Kazakhstan,Ð¡ÐµÐ¼ÐµÐ¹
+Petropavlovsk,KZ,North-Kazakhstan,ÐŸÐµÑ‚Ñ€Ð¾Ð¿Ð°Ð²Ð»
+Taraz,KZ,Zhambyl,Ð¢Ð°Ñ€Ð°Ð·
+Astana,KZ,Astana,ÐÑÑ‚Ð°Ð½Ð°
+Ulaanbaatar,MNG,Mongolia,Ð£Ð»Ð°Ð°Ð½Ð±Ð°Ð°Ñ‚Ð°Ñ€
+Erdenet,MNG,Mongolia,á ¡á ·á ³á ¡á ¨á ¢á ²á ¦
+Pathein,MYA,Ayeyarwady,á€•á€¯á€žá€­á€™á€ºá€™á€¼á€­á€¯á€·
+Mandalay,MYA,Mandalay,á€™á€”á€¹á€á€œá€±á€¸
+Bago,MYA,Bago,á€•á€²á€á€°á€¸á€™á€¼á€­á€¯á€·
+Yangon,MYA,Yangon,á€›á€”á€ºá€€á€¯á€”á€º
+Monywa,MYA,Sagaing,á€™á€¯á€¶á€›á€½á€¬á€™á€¼á€­á€¯á€·
+Mawlamyine,MYA,Mon,á€™á€±á€¬á€ºá€œá€™á€¼á€­á€¯á€„á€ºá€™á€¼á€­á€¯á€·
+Sittwe,MYA,Rakhine,á€…á€…á€ºá€á€½á€±á€™á€¼á€­á€¯á€·
+Taunggyi,MYA,Shan,á€á€±á€¬á€„á€ºá€€á€¼á€®á€¸á€™á€¼á€­á€¯á€·
+Nay Pyi Taw,MYA,Nay Pyi Taw,á€”á€±á€•á€¼á€Šá€ºá€á€±á€¬á€º
+Hefei,CN,Anhui,åˆè‚¥å¸‚
+Suzhou,CN,Anhui,å®¿å·žå¸‚
+Xiamen,CN,Fujian,åŽ¦é—¨å¸‚
+Putian,CN,Fujian,èŽ†ç”°å¸‚
+Lanzhou,CN,Gansu,å…°å·žå¸‚
+Guangzhou,CN,Guangdong,å¹¿å·žå¸‚
+Shantou,CN,Guangdong,æ±•å¤´å¸‚
+Jieyang,CN,Guangdong,æ­é˜³
+Puning,CN,Guangdong,æ™®å®å¸‚
+Shenzhen,CN,Guangdong,æ·±åœ³å¸‚
+Dongguan,CN,Guangdong,ä¸œèŽžå¸‚
+Foshan,CN,Guangdong,ä½›å±±å¸‚
+Zhongshan,CN,Guangdong,ç æµ·å¸‚
+Huizhou,CN,Guangdong,æƒ å·žå¸‚
+Guiyang,CN,Guizhou,è´µé˜³å¸‚
+Shijiazhuang,CN,Hebei,çŸ³å®¶åº„å¸‚
+Tangshan,CN,Hebei,å”å±±å¸‚
+Harbin,CN,Heilongjiang,å“ˆå°”æ»¨å¸‚
+Zhengzhou,CN,Henan,éƒ‘å·žå¸‚
+Xinzheng,CN,Henan,æ–°é„­å¸‚
+Wuhan,CN,Hubei,æ­¦æ±‰å¸‚
+Xiangyang,CN,Hubei,è¥„é˜³å¸‚
+Changsha,CN,Hunan,é•¿æ²™å¸‚
+Liuyang,CN,Hunan,æµé˜³å¸‚
+Ningxiang,CN,Hunan,å®ä¹¡å¸‚
+Nanjing,CN,Jiangsu,å—äº¬å¸‚
+Wuxi,CN,Jiangsu,æ— é”¡å¸‚
+Xuzhou,CN,Jiangsu,å¾å·žå¸‚
+Pizhou,CN,Jiangsu,é‚³å·žå¸‚
+Suzhou,CN,Jiangsu,è‹å·žå¸‚
+Zhangjiagang,CN,Jiangsu,å¼ å®¶æ¸¯å¸‚
+Changzhou,CN,Jiangsu,å¸¸å·žå¸‚
+Nantong,CN,Jiangsu,å—é€šå¸‚
+Rugao,CN,Jiangsu,å¦‚çš‹å¸‚
+Huaian,CN,Jiangsu,æ·®å®‰å¸‚
+Nanchang,CN,Jiangxi,å—æ˜Œå¸‚
+Changchun,CN,Jilin,é•¿æ˜¥å¸‚
+Shenyang,CN,Liaoning,æ²ˆé˜³å¸‚
+Dalian,CN,Liaoning,å¤§è¿žå¸‚
+Xian,CN,Shaanxi,è¥¿å®‰å¸‚
+Jinan,CN,Shandong,æµŽå—å¸‚
+Zibo,CN,Shandong,æ·„åšå¸‚
+Qingdao,CN,Shandong,é’å²›å¸‚
+Yantai,CN,Shandong,çƒŸå°å¸‚
+Weifang,CN,Shandong,æ½åŠå¸‚
+Zaozhuang,CN,Shandong,æž£åº„å¸‚
+Linyi,CN,Shandong,ä¸´æ²‚å¸‚
+Taiyuan,CN,Shanxi,å¤ªåŽŸå¸‚
+Chengdu,CN,Sichuan,æˆéƒ½å¸‚
+Kunming,CN,Yunnan,æ˜†æ˜Žå¸‚
+Hangzhou,CN,Zhejiang,æ­å·žå¸‚
+Ningbo,CN,Zhejiang,å®æ³¢å¸‚
+Wenzhou,CN,Zhejiang,æ¸©å·žå¸‚
+Yueqing,CN,Zhejiang,ä¹æ¸…å¸‚
+Nanning,CN,Guangxi,å—å®å¸‚
+Baotou,CN,Nei Mongol,åŒ…å¤´å¸‚
+Tongliao,CN,Nei Mongol,é€šè¾½å¸‚
+Wulumuqi,CN,Xinjiang,ä¹Œé²æœ¨é½å¸‚
+Aksu,CN,Xinjiang,Ø¦Ø§Ù‚Ø³Û‡ Ø´Û•Ú¾Ù‰Ø±Ù‰
+Beijing,CN,Beijing,åŒ—äº¬å·¿
+Shanghai,CN,Shanghai,ä¸Šæµ·å·¿
+Tianjin,CN,Tianjin,å¤©æ´¥å·¿
+Chongqing,CN,Chongqing,é‡åº†å·¿
+Taipei,RC,Taiwan,è‡ºåŒ—å¸‚
+New Taipei,RC,Taiwan,æ–°åŒ—å¸‚
+Taoyuan,RC,Taiwan,æ¡ƒåœ’å¸‚
+Jhongli,RC,Taiwan,ä¸­å£¢å¸‚
+Keelung,RC,Taiwan,åŸºéš†å¸‚
+Hsinchu,RC,Taiwan,æ–°ç«¹å¸‚
+Taichung,RC,Taiwan,è‡ºä¸­å¸‚
+Changhua,RC,Taiwan,å½°åŒ–å¸‚
+Hualien,RC,Taiwan,èŠ±è“®å¸‚
+Chiayi,RC,Taiwan,å˜‰ç¾©å¸‚
+Tainan,RC,Taiwan,è‡ºå—å¸‚
+Pingtung,RC,Taiwan,å±æ±å¸‚
+Kaohsiung,RC,Taiwan,é«˜é›„å¸‚
+Taitung,RC,Taiwan,è‡ºæ±å¸‚
+Seoul,ROK,South Korea,ì„œìš¸íŠ¹ë³„ì‹œ
+Busan,ROK,South Korea,ë¶€ì‚°ê´‘ì—­ì‹œ
+Daegu,ROK,South Korea,ëŒ€êµ¬ê´‘ì—­ì‹œ
+Incheon,ROK,South Korea,ì¸ì²œê´‘ì—­ì‹œ
+Gwangju,ROK,South Korea,ê´‘ì£¼ê´‘ì—­ì‹œ
+Daejeon,ROK,South Korea,ëŒ€ì „ê´‘ì—­ì‹œ
+Sejong,ROK,South Korea,ì„¸ì¢…
+Ulsan,ROK,South Korea,ìš¸ì‚°ê´‘ì—­ì‹œ
+Suwon,ROK,South Korea,ìˆ˜ì›ì‹œ
+Seongnam,ROK,South Korea,ì„±ë‚¨ì‹œ
+Jeonju,ROK,South Korea,ì „ì£¼ì‹œ
+Changwon,ROK,South Korea,ì°½ì›ì‹œ
+Cheongju,ROK,South Korea,ì²­ì£¼ì‹œ
+Jinju,ROK,South Korea,ì§„ì£¼ì‹œ
+Jeju,ROK,South Korea,ì œì£¼ì‹œ
+Gunsan,ROK,South Korea,êµ°ì‚°ì‹œ
+Chuncheon,ROK,South Korea,ì¶˜ì²œì‹œ
+Yeosu,ROK,South Korea,ì—¬ìˆ˜ì‹œ
+Goyang,ROK,South Korea,ê³ ì–‘ì‹œ
+Yongin,ROK,South Korea,ìš©ì¸ì‹œ
+Bucheon,ROK,South Korea,ë¶€ì²œì‹œ
+Ansan,ROK,South Korea,ì•ˆì‚°ì‹œ
+Anyang,ROK,South Korea,ì•ˆì–‘ì‹œ
+Sapporo,J,Hokkaido,æœ­å¹Œå¸‚
+Sendai,J,Miyagi,ä»™å°å¸‚
+Utsunomiya,J,Tochigi,å®‡éƒ½å®®å¸‚
+Saitama,J,Saitama,ã•ã„ãŸã¾å¸‚
+Kawaguchi,J,Saitama,å·å£å¸‚
+Chiba,J,Chiba,åƒè‘‰å¸‚
+Funabashi,J,Chiba,èˆ¹æ©‹å¸‚
+Matsudo,J,Chiba,æ¾æˆ¸å¸‚
+Ichikawa,J,Chiba,å¸‚å·å¸‚
+Kashiwa,J,Chiba,æŸå¸‚
+Tokyo,J,Tokyo,ç‰¹åˆ¥åŒºéƒ¨
+Hachioji,J,Tokyo,å…«çŽ‹å­å¸‚
+Machida,J,Tokyo,ç”ºç”°å¸‚
+Yokohama,J,Kanagawa,æ¨ªæµœå¸‚
+Kawasaki,J,Kanagawa,å·å´Žå¸‚
+Sagamihara,J,Kanagawa,ç›¸æ¨¡åŽŸå¸‚
+Yokosuka,J,Kanagawa,æ¨ªé ˆè³€å¸‚
+Fujisawa,J,Kanagawa,è—¤æ²¢å¸‚
+Niigata,J,Niigata,æ–°æ½Ÿå¸‚
+Toyama,J,Toyama,å¯Œå±±å¸‚
+Kanazawa,J,Ishikawa,é‡‘æ²¢å¸‚
+Gifu,J,Gifu,å²é˜œå¸‚
+Shizuoka,J,Shizuoka,é™å²¡å¸‚
+Hamamatsu,J,Shizuoka,æµœæ¾å¸‚
+Nagoya,J,Aichi,åå¤å±‹å¸‚
+Toyota,J,Aichi,è±Šç”°å¸‚
+Kyoto,J,Kyoto,äº¬éƒ½å¸‚
+Osaka,J,Osaka,å¤§é˜ªå¸‚
+Sakai,J,Osaka,å ºå¸‚
+Higashiosaka,J,Osaka,æ±å¤§é˜ªå¸‚
+Hirakata,J,Osaka,æžšæ–¹å¸‚
+Kobe,J,Hyogo,ç¥žæˆ¸å¸‚
+Himeji,J,Hyogo,å§«è·¯å¸‚
+Nishinomiya,J,Hyogo,è¥¿å®®å¸‚
+Amagasaki,J,Hyogo,å°¼å´Žå¸‚
+Okayama,J,Okayama,å²¡å±±å¸‚
+Kurashiki,J,Okayama,å€‰æ•·å¸‚
+Hiroshima,J,Hiroshima,åºƒå³¶å¸‚
+Fukuyama,J,Hiroshima,ç¦å±±å¸‚
+Takamatsu,J,Kagawa,é«˜æ¾å¸‚
+Matsuyama,J,Ehime,æ¾å±±å¸‚
+Fukuoka,J,Fukuoka,ç¦å²¡å¸‚
+Kitakyushu,J,Fukuoka,åŒ—ä¹å·žå¸‚
+Nagasaki,J,Nagasaki,é•·å´Žå¸‚
+Kumamoto,J,Kumamoto,ç†Šæœ¬å¸‚
+Oita,J,Oita,å¤§åˆ†å¸‚
+Miyazaki,J,Miyazaki,å®®å´Žå¸‚
+Kagoshima,J,Kagoshima,é¹¿å…å³¶å¸‚
+Thai Nguyen,VN,Northern Midlands and Mountains,ThÃ¡i NguyÃªn
+Ha Long,VN,Northern Midlands and Mountains,Háº¡ Long
+Cam Pha,VN,Northern Midlands and Mountains,Cam Pha
+Hanoi,VN,Red River Delta,HÃ  Ná»™i
+Haiphong,VN,Red River Delta,Háº£i PhÃ²ng
+Nam Dinh,VN,Red River Delta,Nam Äá»‹nh
+Vinh,VN,North and South Central Coast,Vinh
+Da Nang,VN,North and South Central Coast,ÄÃ  Náºµng
+Hue,VN,North and South Central Coast,Huáº¿
+Nha Trang,VN,North and South Central Coast,Nha Trang
+Qui Nhon,VN,North and South Central Coast,Quy NhÆ¡n
+Buon Ma Thuot,VN,Central Highlands,BuÃ´n Ma Thuá»™t
+Thanh Pho Ho Chi Minh,VN,Southeast,ThÃ nh Phá»‘ Há»“ ChÃ­ Minh
+Vung Tau,VN,Southeast,VÅ©ng TÃ u
+Bien Hoa,VN,Southeast,BiÃªn HoÃ 
+Can Tho,VN,Mekong River Delta,Cáº§n ThÆ¡
+Long Xuyen,VN,Mekong River Delta,Long XuyÃªn
+Rach Gia,VN,Mekong River Delta,Ráº¡ch GiÃ¡
+Phnom Penh,K,Cambodia,áž—áŸ’áž“áŸ†áž–áŸáž‰
+Battambang,K,Cambodia,áž€áŸ’ážšáž»áž„áž”áž¶ážáŸ‹ážŠáŸ†áž”áž„
+Siem Reap,K,Cambodia,áž€áŸ’ážšáž»áž„ážŸáŸ€áž˜ážšáž¶áž”
+Chiang Mai,THA,Thailand,à¹€à¸Šà¸µà¸¢à¸‡à¹ƒà¸«à¸¡à¹ˆ
+Nakhon Ratchasima,THA,Thailand,à¸™à¸„à¸£à¸£à¸²à¸Šà¸ªà¸µà¸¡à¸²
+Nakhon Sawan,THA,Thailand,à¸™à¸„à¸£à¸ªà¸§à¸£à¸£à¸„à¹Œ
+Bangkok,THA,Thailand,à¸à¸£à¸¸à¸‡à¹€à¸—à¸žà¸¡à¸«à¸²à¸™à¸„à¸£
+Nakhon Si Thammarat,THA,Thailand,à¸™à¸™à¸—à¸šà¸¸à¸£à¸µ
+Songkhla,THA,Thailand,à¸ªà¸‡à¸‚à¸¥à¸²
+Samut Prakan,THA,Thailand,à¸ªà¸¡à¸¸à¸—à¸£à¸›à¸£à¸²à¸à¸²à¸£
+Chon Buri,THA,Thailand,à¸Šà¸¥à¸šà¸¸à¸£à¸µ
+Phuket,THA,Thailand,à¸ à¸¹à¹€à¸à¹‡à¸•
+Al Qahirah,ET,Egypt,Ø§Ù„Ù‚Ø§Ù‡Ø±Ø©
+Al-QÄhirah al-JadÄ«dah,ET,Egypt,Ø§Ù„Ù‚Ø§Ù‡Ø±Ø© Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø©
+Al Iskandariyah,ET,Egypt,Ø§Ù„Ø§Ø³ÙƒÙ†Ø¯Ø±ÙŠ
+Al Jizah,ET,Egypt,Ø§Ù„Ø¬ÙŠØ²Ø©
+Bur Said,ET,Egypt,Ø¨ÙˆØ±Ø³Ø¹ÙŠØ¯
+Al Minya,ET,Egypt,Ø§Ù„Ù…Ù†ÙŠØ§
+As Suways,ET,Egypt,Ø§Ù„Ø³ÙˆÙŠØ³
+Damanhur,ET,Egypt,Ø¯Ù…Ù†Ù‡ÙˆØ±
+Al Mansurah,ET,Egypt,Ø§Ù„Ù…Ù†ØµÙˆØ±Ø©
+Tanta,ET,Egypt,Ø·Ù†Ø·Ø§
+Al Mahallah al Kubra,ET,Egypt,Ø§Ù„Ù…Ø­Ù„Ø© Ø§Ù„ÙƒØ¨Ø±Ù‰
+Al Ismailiyah,ET,Egypt,Ø§Ù„Ø§Ø³Ù…Ø§Ø¹ÙŠÙ„ÙŠ
+Shibin al Kawm,ET,Egypt,Ø´Ø¨ÙŠÙ† Ø§Ù„ÙƒÙˆÙ…
+Banha,ET,Egypt,Ø¨Ù†Ù‡Ø§
+Shubra al Khimah,ET,Egypt,Ø´Ø¨Ø±Ø§ Ø§Ù„Ø®ÙŠÙ…Ø©
+Az Zaqaziq,ET,Egypt,Ø§Ù„Ø²Ù‚Ø§Ø²ÙŠÙ‚
+Aswan,ET,Egypt,Ø£Ø³ÙˆØ§Ù†
+Asyut,ET,Egypt,Ø£Ø³ÙŠÙˆØ·
+Bani Suwayf,ET,Egypt,Ø¨Ù†ÙŠ Ø³ÙˆÙŠÙ
+Al Fayyum,ET,Egypt,Ø§Ù„ÙÙŠÙˆÙ…
+Qina,ET,Egypt,Ù‚Ù†Ù€Ù€Ù€Ù€Ø§
+Al Uqsur,ET,Egypt,Ø§Ù„Ø§Ù‚Øµ
+Sawhaj,ET,Egypt,Ø³ÙˆÙ‡Ø§Ø¬
+Al-Arish,ET,Egypt,Ø§Ù„Ø¹Ø±ÙŠØ´
+Dumyat,ET,Egypt,Ø¯Ù…ÙŠØ§Ø·
+MadÄ«nat 'Ashirh min-Ramaá¸Än,ET,Egypt,Ø§Ù„Ø¹Ø§Ø´Ø± Ù…Ù† Ø±Ù…Ø¶Ø§Ù†
+Tripoli,LAR,Libya,Ø·Ø±Ø§Ø¨Ù„Ø³
+Benghazi,LAR,Libya,Ø¨Ù†ØºØ§Ø²ÙŠ
+Misratah,LAR,Libya,Ù…ØµØ±Ø§ØªØ©
+Tunis,TN,Tunisia,ØªÙˆÙ†Ø³ Ø§Ù„Ø¹Ø§ØµÙ…Ø©
+Sfax,TN,Tunisia,ØµÙØ§Ù‚Ø³
+Sousse,TN,Tunisia,Ø³ÙˆØ³Ø©
+Banzart,TN,Tunisia,Ø¨Ù†Ø²Ø±Øª
+Al-QayrawÄn,TN,Tunisia,Ø§Ù„Ù‚ÙŠØ±ÙˆØ§Ù†
+Algiers,DZ,Algeria,Ø§Ù„Ø¬Ø²Ø§Ø¦Ø±
+Annaba,DZ,Algeria,Ø¹Ù†Ø§Ø¨Ø©
+Batna,DZ,Algeria,Ø¨Ø§ØªÙ†Ø©
+BÃ©char,DZ,Algeria,Ø¨Ø´Ø§Ø±
+Sidi Bel AbbÃ«s,DZ,Algeria,Ø³ÙŠØ¯ÙŠ Ø¨Ù„Ø¹Ø¨Ø§Ø³
+Skikda,DZ,Algeria,Ø³ÙƒÙŠÙƒØ¯Ø©
+TÃ©bessa,DZ,Algeria,ØªØ¨Ø³Ø©
+Oran,DZ,Algeria,ÙˆÙ‡Ø±Ø§Ù†
+Constantine,DZ,Algeria,Ù‚Ø³Ù†Ø·ÙŠÙ†Ø©
+SÃ©tif,DZ,Algeria,Ø³Ø·ÙŠÙ
+Blida,DZ,Algeria,Ø§Ù„Ø¨Ù„ÙŠØ¯Ø©
+BejaÃ¯a,DZ,Algeria,Ø¨Ø¬Ø§ÙŠØ©
+Mostaganem,DZ,Algeria,Ù…Ø³ØªØºØ§Ù†Ù…
+Ech Chelif,DZ,Algeria,Ø§Ù„Ø´Ù„Ù
+Tlemcen,DZ,Algeria,ØªÙ„Ù…Ø³Ø§Ù†
+Tougourt,DZ,Algeria,ØªÙˆØºØ±Ø©
+GhardaÃ¯a,DZ,Algeria,ØºØ±Ø¯Ø§ÙŠØ©
+El Djelfa,DZ,Algeria,Ø§Ù„Ø¬Ù„ÙØ©
+Biskra,DZ,Algeria,Ø¨Ø³ÙƒØ±Ø©
+Laghouat,DZ,Algeria,Ø§Ù„Ø£ØºÙˆØ§Ø·
+Agadir,MA,Souss Massa Daraa,Ø£ÙƒØ§Ø¯ÙŠØ±
+KÃ©nitra,MA,Gharb Chrarda Beni Hssen,Ø§Ù„Ù‚Ù†ÙŠØ·Ø±Ø©
+Settat,MA,Chaouia Ouardigha,Ø³Ø·Ø§Øª
+Marrakech,MA,Marrakech Tensift Al Haouz,Ù…Ø±Ø§ÙƒØ´
+Oujda,MA,Oriental,ÙˆØ¬Ø¯Ø©
+Nador,MA,Oriental,Ø§Ù„Ù†Ø§Ø¯ÙˆØ±
+Casablanca,MA,Grand Casablanca,Ø§Ù„Ø¯Ø§Ø± Ø§Ù„Ø¨ÙŠØ¶Ø§Ø¡
+Mohammedia,MA,Grand Casablanca,Ù…Ø­Ù…Ø¯ÙŠØ©
+Rabat,MA,Rabat Sale Zemmour Zaer,Ø§Ù„Ø±Ø¨Ø§Ø·
+SalÃ©,MA,Rabat Sale Zemmour Zaer,Ø³Ù„Ø§
+Temara,MA,Rabat Sale Zemmour Zaer,ØªÙ…Ø§Ø±Ø©
+Safi,MA,Doukala Abda,Ø¢Ø³ÙÙŠ
+Beni Mellal,MA,Tadla Azilal,Ø¨Ù†ÙŠ Ù…Ù„Ø§Ù„
+MeknÃ¨s,MA,Meknes Tafilalet,Ù…ÙƒÙ†Ø§Ø³
+FÃ¨s,MA,Fes Boulemane,ÙØ§Ø³
+Tanger,MA,Tanger Tetouan,Ø·Ù†Ø¬Ø©
+TÃ©touan,MA,Tanger Tetouan,ØªØ·ÙˆØ§Ù†
+El Aaiun,WSA,Western Sahara,Ø§Ù„Ø¹ÙŠÙˆÙ†
+Kiffa,RIM,Assaba,ÙƒÙŠÙÙ‡
+Nouadhibou,RIM,Dakhlet Nouadhibou,Ø§Ù†ÙˆØ§Ø°ÙŠØ¨Ùˆ
+Kaedi,RIM,Gorgol,ÙƒÙŠÙ‡ÙŠØ¯ÙŠ
+Nouakchott,RIM,Nouakchott,Ù†ÙˆØ§ÙƒØ´ÙˆØ·
+Rosso,RIM,Trarza,Ø±ÙˆØµÙˆ
+Port Sudan,SUD,Al-Baá¸¥r al-Aá¸¥mar,Ø¨ÙˆØ±ØªØ³ÙˆØ¯Ø§Ù†
+Al Gazira,SUD,Al-JazÄ«rah,Ø§Ù„Ø¬Ø²ÙŠØ±Ø©
+Khartoum,SUD,Al-Khará¹­Å«m,Ø§Ù„Ø®Ø±Ø·ÙˆÙ…
+Omdurman,SUD,Al-Khará¹­Å«m,Ø£Ù…Ø¯Ø±Ù…Ø§Ù†
+Khartoum North,SUD,Al-Khará¹­Å«m,Ø§Ù„Ø®Ø±Ø·ÙˆÙ… Ø¨Ø­Ø±ÙŠ
+Al Gedaref,SUD,Al-Qaá¸Ärif,Ø§Ù„Ù‚Ø¶Ø§Ø±Ù
+Rabak,SUD,An-NÄ«l al-Abyaá¸,Ø±Ø¨Ùƒ
+KÅ«stÄ«,SUD,An-NÄ«l al-Abyaá¸,ÙƒÙˆØ³ØªÙŠ
+Ad-DamazÄ«n,SUD,An-NÄ«l al-Azraq,Ø§Ù„Ø¯Ù…Ø§Ø²ÙŠÙ†
+DunqulÄ,SUD,Ash-ShamÄlÄ«yah,Ø¯Ù†Ù‚Ù„Ø§
+Al-Junaynah,SUD,Gharb al-DÄrfÅ«r,Ø§Ù„Ø¬Ù†ÙŠÙ†Ø©
+Al-FÅ«lah,SUD,Gharb KurdufÄn,Ø§Ù„ÙÙˆÙ„Ø©
+Nyala,SUD,JanÅ«b DÄrfÅ«r,Ù†ÙŠØ§Ù„Ø§
+KÄduqlÄ«,SUD,JanÅ«b KurdufÄn,ÙƒØ§Ø¯Ù‚Ù„ÙŠ
+Kassala,SUD,KassalÄ,ÙƒØ³Ù„Ø§
+Ad-DÄmir,SUD,Nahr an-NÄ«l,Ø§Ù„Ø¯Ø§Ù…Ø±
+Atbara,SUD,Nahr an-NÄ«l,Ø¹Ø·Ø¨Ø±Ø©
+SannÄr,SUD,SannÄr,Ø³Ù†Ø§Ø±
+Al Fashir,SUD,ShamÄl DÄrfÅ«r,Ø§Ù„ÙØ§Ø´Ø±
+Al Ubayyiá¸‘,SUD,ShamÄl KurdufÄn,Ø§Ù„Ø£Ø¨ÙŠØ¶
+Aá¸-á¸Œuayn,SUD,Sharq DÄrfÅ«r,Ø§Ù„Ø¶Ø¹ÙŠÙ†
+Massaua,ER,Eritrea,áˆáŒ½á‹‹á‹•
