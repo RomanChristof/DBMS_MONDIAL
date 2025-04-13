@@ -1,0 +1,2034 @@
+river,country,province
+Thjorsa,IS,Iceland
+JÃ¶kulsa a FjÃ¶llum,IS,Iceland
+Thames,GB,East of England
+Thames,GB,London
+Thames,GB,South East England
+Thames,GB,South West England
+Severn,GB,West Midlands
+Severn,GB,South West England
+Severn,GB,Wales
+Avon,GB,South West England
+Test,GB,South East England
+Great Ouse,GB,East of England
+Great Ouse,GB,South East England
+Trent,GB,Yorkshire and the Humber
+Trent,GB,East Midlands
+Trent,GB,West Midlands
+Ouse,GB,Yorkshire and the Humber
+Aire,GB,Yorkshire and the Humber
+Clyde,GB,Scotland
+Leven,GB,Scotland
+Ness,GB,Scotland
+Bann,GB,Northern Ireland
+Shannon,IRL,Leinster
+Shannon,IRL,Munster
+Shannon,IRL,Connacht
+Shannon,IRL,Ulster
+GudenÃ¥,DK,Midtjylland
+GudenÃ¥,DK,Syddanmark
+Glomma,N,Akershus
+Glomma,N,Ã˜stfold
+Glomma,N,Hedmark
+Glomma,N,SÃ¸r-TrÃ¸ndelag
+LÃ¥gen,N,Akershus
+LÃ¥gen,N,Hedmark
+LÃ¥gen,N,Oppland
+GÃ¶taÃ¤lv,S,VÃ¤stra GÃ¶taland
+Motala StrÃ¶m,S,Ã–stergÃ¶tland
+KlarÃ¤lv,N,Hedmark
+KlarÃ¤lv,S,VÃ¤rmland
+DalÃ¤lv,S,GÃ¤vleborg
+DalÃ¤lv,S,Dalarna
+DalÃ¤lv,S,Uppsala
+DalÃ¤lv,S,VÃ¤stmanland
+VÃ¤sterdalÃ¤lv,S,Dalarna
+Ã–sterdalÃ¤lv,S,Dalarna
+UmeÃ¤lv,S,VÃ¤sterbotten
+Paatsjoki,R,Murmanskaya
+Paatsjoki,SF,Lappia
+Paatsjoki,N,Finnmark
+TorneÃ¤lv,SF,Lappia
+TorneÃ¤lv,N,Nordland
+TorneÃ¤lv,S,VÃ¤sterbotten
+Ounasjoki,SF,Lappia
+Kemijoki,SF,Lappia
+Oulujoki,SF,Pohjois-Pohjanmaa
+Oulujoki,SF,Kainuu
+Kymijoki,SF,PÃ¤ijÃ¤t-HÃ¤me
+Kymijoki,SF,Kymenlaakso
+KokemÃ¤enjoki,SF,Pirkanmaa
+KokemÃ¤enjoki,SF,Satakunta
+Vuoksi,R,Karelia
+Vuoksi,SF,EtelÃ¤-Karjala
+Memel,LT,Lithuania
+Memel,BY,Grodno
+Memel,BY,Minsk
+Memel,R,Kaliningradskaya
+Neris,LT,Lithuania
+Neris,BY,Vitebsk
+Neris,BY,Grodno
+Neris,BY,Minsk
+Weichsel,PL,Kujawsko-Pomorskie
+Weichsel,PL,Lubelskie
+Weichsel,PL,MaÅ‚opolskie
+Weichsel,PL,Mazowieckie
+Weichsel,PL,Podkarpackie
+Weichsel,PL,Pomorskie
+Weichsel,PL,ÅšlÄ…skie
+Weichsel,PL,ÅšwiÄ™tokrzyskie
+Narew,BY,Grodno
+Narew,PL,Mazowieckie
+Narew,PL,Podlaskie
+Western Bug,BY,Brest
+Western Bug,PL,Lubelskie
+Western Bug,PL,Mazowieckie
+Western Bug,PL,Podlaskie
+Western Bug,UA,Lvivska
+Western Bug,UA,Volynska
+Dunajec,SK,PreÅ¡ovskÃ½
+Dunajec,PL,MaÅ‚opolskie
+San,PL,Podkarpackie
+San,UA,Lvivska
+San,UA,Zakarpatska
+Poprad,SK,PreÅ¡ovskÃ½
+Poprad,PL,MaÅ‚opolskie
+Oder,CZ,MoravskoslezskÃ½
+Oder,CZ,OlomouckÃ½
+Oder,D,Brandenburg
+Oder,D,Mecklenburg-Vorpommern
+Oder,D,Sachsen
+Oder,PL,DolnoÅ›lÄ…skie
+Oder,PL,Lubuskie
+Oder,PL,Opolskie
+Oder,PL,ÅšlÄ…skie
+Oder,PL,Zachodniopomorskie
+NeiÃŸe,CZ,LibereckÃ½
+NeiÃŸe,D,Brandenburg
+NeiÃŸe,D,Sachsen
+NeiÃŸe,PL,Lubuskie
+NeiÃŸe,PL,ÅÃ³dzkie
+Warta,PL,Lubuskie
+Warta,PL,ÅÃ³dzkie
+Warta,PL,ÅšlÄ…skie
+Warta,PL,Wielkopolskie
+Elbe,CZ,KrÃ¡lovÃ©hradeckÃ½
+Elbe,CZ,LibereckÃ½
+Elbe,CZ,PardubickÃ½
+Elbe,CZ,StÅ™edoÄeskÃ½
+Elbe,CZ,ÃšsteckÃ½
+Elbe,D,Brandenburg
+Elbe,D,Hamburg
+Elbe,D,Mecklenburg-Vorpommern
+Elbe,D,Niedersachsen
+Elbe,D,Sachsen
+Elbe,D,Sachsen-Anhalt
+Elbe,D,Schleswig-Holstein
+Havel,D,Berlin
+Havel,D,Brandenburg
+Havel,D,Mecklenburg-Vorpommern
+Havel,D,Sachsen-Anhalt
+Spree,CZ,ÃšsteckÃ½
+Spree,D,Berlin
+Spree,D,Brandenburg
+Spree,D,Sachsen
+Saale,D,Bayern
+Saale,D,Sachsen-Anhalt
+Saale,D,ThÃ¼ringen
+WeiÃŸe Elster,CZ,KarlovarskÃ½
+WeiÃŸe Elster,D,Sachsen
+WeiÃŸe Elster,D,Sachsen-Anhalt
+WeiÃŸe Elster,D,ThÃ¼ringen
+Mulde,D,Sachsen
+Mulde,D,Sachsen-Anhalt
+Eger,CZ,KarlovarskÃ½
+Eger,CZ,ÃšsteckÃ½
+Eger,D,Bayern
+Moldau,CZ,Praha
+Moldau,CZ,JihoÄeskÃ½
+Moldau,CZ,StÅ™edoÄeskÃ½
+Berounka,CZ,Praha
+Berounka,CZ,PlzeÅˆskÃ½
+Berounka,CZ,StÅ™edoÄeskÃ½
+Berounka,D,Bayern
+Weser,D,Bremen
+Weser,D,Hessen
+Weser,D,Niedersachsen
+Weser,D,Nordrhein-Westfalen
+Aller,D,Niedersachsen
+Aller,D,Sachsen-Anhalt
+Oker,D,Niedersachsen
+Leine,D,Niedersachsen
+Leine,D,ThÃ¼ringen
+Werra,D,Hessen
+Werra,D,Niedersachsen
+Werra,D,ThÃ¼ringen
+Fulda,D,Hessen
+Ems,D,Niedersachsen
+Ems,D,Nordrhein-Westfalen
+Hase,D,Niedersachsen
+Rhein,F,Grand Est
+Rhein,D,Baden-WÃ¼rttemberg
+Rhein,D,Hessen
+Rhein,D,Nordrhein-Westfalen
+Rhein,D,Rheinland-Pfalz
+Rhein,CH,Aargau
+Rhein,CH,Basel-Landschaft
+Rhein,CH,Basel-Stadt
+Rhein,CH,GraubÃ¼nden
+Rhein,CH,Sankt Gallen
+Rhein,CH,Schaffhausen
+Rhein,CH,Thurgau
+Rhein,CH,ZÃ¼rich
+Rhein,FL,Liechtenstein
+Rhein,A,Vorarlberg
+Rhein,NL,Gelderland
+Rhein,NL,Zuid-Holland
+Rhein,NL,Noord-Brabant
+Lippe,D,Nordrhein-Westfalen
+Emscher,D,Nordrhein-Westfalen
+Ruhr,D,Nordrhein-Westfalen
+Wupper,D,Nordrhein-Westfalen
+Sieg,D,Nordrhein-Westfalen
+Sieg,D,Rheinland-Pfalz
+Lahn,D,Hessen
+Lahn,D,Nordrhein-Westfalen
+Lahn,D,Rheinland-Pfalz
+Main,D,Baden-WÃ¼rttemberg
+Main,D,Bayern
+Main,D,Hessen
+Regnitz,D,Bayern
+Rednitz,D,Bayern
+Pegnitz,D,Bayern
+Nidda,D,Hessen
+Mosel,F,Grand Est
+Mosel,D,Rheinland-Pfalz
+Mosel,D,Saarland
+Mosel,L,Luxembourg
+Sauer,D,Rheinland-Pfalz
+Sauer,B,Luxembourg
+Sauer,L,Luxembourg
+Alzette,F,Grand Est
+Alzette,L,Luxembourg
+Saar,F,Grand Est
+Saar,D,Rheinland-Pfalz
+Saar,D,Saarland
+Meurthe,F,Grand Est
+Neckar,D,Baden-WÃ¼rttemberg
+Neckar,D,Hessen
+Enz,D,Baden-WÃ¼rttemberg
+Ill,F,Grand Est
+Elz,D,Baden-WÃ¼rttemberg
+Birs,CH,Basel-Landschaft
+Birs,CH,Basel-Stadt
+Birs,CH,Bern
+Birs,CH,Jura
+Birs,CH,Solothurn
+Aare,CH,Aargau
+Aare,CH,Bern
+Aare,CH,Solothurn
+Saane,CH,Bern
+Saane,CH,Fribourg
+Saane,CH,Valais
+Zihl,CH,Bern
+Zihl,CH,NeuchÃ¢tel
+Orbe,F,Bourgogne-Franche-ComtÃ©
+Orbe,CH,Vaud
+Reuss,CH,Aargau
+Reuss,CH,Luzern
+Reuss,CH,Uri
+Limmat,CH,Aargau
+Limmat,CH,ZÃ¼rich
+Thur,CH,Sankt Gallen
+Thur,CH,Thurgau
+Thur,CH,ZÃ¼rich
+Bregenzer Ach,A,Vorarlberg
+Hinterrhein,CH,GraubÃ¼nden
+Maas,F,Grand Est
+Maas,B,LiÃ¨ge
+Maas,B,Limburg
+Maas,B,Namur
+Maas,NL,Gelderland
+Maas,NL,Zuid-Holland
+Maas,NL,Noord-Brabant
+Maas,NL,Limburg
+Rur,D,Nordrhein-Westfalen
+Rur,B,LiÃ¨ge
+Rur,NL,Limburg
+Schelde,F,Hauts-de-France
+Schelde,B,Antwerpen
+Schelde,B,Oost-Vlaanderen
+Schelde,B,Hainaut
+Schelde,B,West-Vlaanderen
+Schelde,NL,Zeeland
+Somme,F,Hauts-de-France
+Seine,F,ÃŽle-de-France
+Seine,F,Grand Est
+Seine,F,Normandie
+Seine,F,Bourgogne-Franche-ComtÃ©
+Marne,F,ÃŽle-de-France
+Marne,F,Grand Est
+Vilaine,F,Bretagne
+Vilaine,F,Pays de la Loire
+Loire,F,Auvergne-RhÃ´ne-Alpes
+Loire,F,Centre-Val de Loire
+Loire,F,Pays de la Loire
+Loire,F,Bourgogne-Franche-ComtÃ©
+Maine,F,Pays de la Loire
+Sarthe,F,Pays de la Loire
+Sarthe,F,Normandie
+Mayenne,F,Pays de la Loire
+Mayenne,F,Normandie
+Vienne,F,Nouvelle-Aquitaine
+Vienne,F,Centre-Val de Loire
+Cher,F,Auvergne-RhÃ´ne-Alpes
+Cher,F,Nouvelle-Aquitaine
+Cher,F,Centre-Val de Loire
+Allier,F,Auvergne-RhÃ´ne-Alpes
+Allier,F,Centre-Val de Loire
+Allier,F,Bourgogne-Franche-ComtÃ©
+Allier,F,Occitanie
+Garonne,F,Nouvelle-Aquitaine
+Garonne,F,Occitanie
+Garonne,E,Catalunya
+Rhone,F,Auvergne-RhÃ´ne-Alpes
+Rhone,F,Provence-Alpes-CÃ´te d'Azur
+Rhone,F,Occitanie
+Rhone,CH,GenÃ¨ve
+Rhone,CH,Valais
+Rhone,CH,Vaud
+Saone,F,Auvergne-RhÃ´ne-Alpes
+Saone,F,Grand Est
+Saone,F,Bourgogne-Franche-ComtÃ©
+Doubs,F,Bourgogne-Franche-ComtÃ©
+Doubs,CH,Jura
+Isere,F,Auvergne-RhÃ´ne-Alpes
+Durance,F,Provence-Alpes-CÃ´te d'Azur
+Mino,E,Galicia
+Mino,P,Viana do Castelo
+Douro,E,Castilla y LeÃ³n
+Douro,P,Aveiro
+Douro,P,Braganca
+Douro,P,Guarda
+Douro,P,Porto
+Douro,P,Vila Real
+Douro,P,Viseu
+Mondego,P,Coimbra
+Mondego,P,Guarda
+Mondego,P,Viseu
+Tejo,E,Castilla-La Mancha
+Tejo,E,Extremadura
+Tejo,P,Castelo Branco
+Tejo,P,Lisboa
+Tejo,P,Portalegre
+Tejo,P,Santarem
+Jarama,E,Castilla-La Mancha
+Jarama,E,Madrid
+Sado,P,Beja
+Sado,P,Setubal
+Guadiana,E,AndalucÃ­a
+Guadiana,E,Castilla-La Mancha
+Guadiana,E,Extremadura
+Guadiana,P,Beja
+Guadiana,P,Evora
+Guadiana,P,Algarve
+Guadiana,P,Portalegre
+Guadalquivir,E,AndalucÃ­a
+Genil,E,AndalucÃ­a
+Segura,E,AndalucÃ­a
+Segura,E,Castilla-La Mancha
+Segura,E,Murcia
+Segura,E,Valenciana
+JÃºcar,E,Castilla-La Mancha
+JÃºcar,E,Valenciana
+Turia,E,AragÃ³n
+Turia,E,Castilla-La Mancha
+Turia,E,Valenciana
+Ebro,E,AragÃ³n
+Ebro,E,Euskadi
+Ebro,E,Castilla y LeÃ³n
+Ebro,E,Catalunya
+Ebro,E,Navarra
+Ebro,E,La Rioja
+Segre,F,Occitanie
+Segre,E,Catalunya
+Valira,AND,Andorra
+Valira,E,Catalunya
+Po,I,Piemonte
+Po,I,Lombardia
+Po,I,Veneto
+Po,I,Emilia-Romagna
+Tresa,I,Lombardia
+Tresa,CH,Ticino
+Ticino,I,Piemonte
+Ticino,I,Lombardia
+Ticino,CH,Ticino
+Moesa,CH,GraubÃ¼nden
+Moesa,CH,Ticino
+Lambro,I,Lombardia
+Dora Baltea,I,Piemonte
+Dora Baltea,I,Valle d'Aosta
+Tanaro,I,Piemonte
+Tanaro,I,Liguria
+Adda,I,Lombardia
+Mera,I,Lombardia
+Mera,CH,GraubÃ¼nden
+Mincio,I,Veneto
+Etsch,I,Trentino-Alto Adige
+Etsch,I,Veneto
+Tevere,I,Toscana
+Tevere,I,Umbria
+Tevere,I,Lazio
+Marta,I,Lazio
+Arrone,I,Lazio
+Arno,I,Toscana
+Imera Meridionale,I,Sicilia
+Tirso,I,Sardegna
+Donau,SRB,Serbia
+Donau,SK,BratislavskÃ½
+Donau,SK,Nitriansky
+Donau,SK,TrnavskÃ½
+Donau,D,Baden-WÃ¼rttemberg
+Donau,D,Bayern
+Donau,H,Baranya
+Donau,H,BÃ¡cs-Kiskun
+Donau,H,FejÃ©r
+Donau,H,GyÅ‘r-Moson-Sopron
+Donau,H,KomÃ¡rom-Esztergom
+Donau,H,Pest
+Donau,H,Tolna
+Donau,H,Budapest
+Donau,A,Wien
+Donau,A,OberÃ¶sterreich
+Donau,A,NiederÃ¶sterreich
+Donau,UA,Odeska
+Donau,HR,Croatia
+Donau,BG,Bulgaria
+Donau,RO,BrÄƒila
+Donau,RO,CÄƒlÄƒraÅŸi
+Donau,RO,CaraÅŸ-Severin
+Donau,RO,ConstanÅ£a
+Donau,RO,Dolj
+Donau,RO,GalaÅ£i
+Donau,RO,Giurgiu
+Donau,RO,IalomiÅ£a
+Donau,RO,MehedinÅ£i
+Donau,RO,Olt
+Donau,RO,Teleorman
+Donau,RO,Tulcea
+Donau,MD,Moldova
+Breg,D,Baden-WÃ¼rttemberg
+Brigach,D,Baden-WÃ¼rttemberg
+Iller,D,Baden-WÃ¼rttemberg
+Iller,D,Bayern
+Iller,A,Vorarlberg
+Lech,D,Bayern
+Lech,A,Vorarlberg
+Lech,A,Tirol
+Isar,D,Bayern
+Isar,A,Tirol
+Ammer,D,Bayern
+WÃ¼rm,D,Bayern
+Inn,D,Bayern
+Inn,CH,GraubÃ¼nden
+Inn,A,OberÃ¶sterreich
+Inn,A,Tirol
+Ilz,D,Bayern
+Regen,CZ,PlzeÅˆskÃ½
+Regen,D,Bayern
+Naab,CZ,PlzeÅˆskÃ½
+Naab,D,Bayern
+Alz,D,Bayern
+Salzach,D,Bayern
+Salzach,A,OberÃ¶sterreich
+Salzach,A,Salzburg
+Enns,A,OberÃ¶sterreich
+Enns,A,Steiermark
+Enns,A,Salzburg
+Enns,A,NiederÃ¶sterreich
+March,CZ,JihomoravskÃ½
+March,CZ,OlomouckÃ½
+March,CZ,PardubickÃ½
+March,CZ,ZlÃ­nskÃ½
+March,SK,BratislavskÃ½
+March,SK,TrnavskÃ½
+March,A,NiederÃ¶sterreich
+Thaya,CZ,JihomoravskÃ½
+Thaya,A,NiederÃ¶sterreich
+Svratka,CZ,JihomoravskÃ½
+Svratka,CZ,VysoÄina
+Svratka,CZ,PardubickÃ½
+Jihlava,CZ,JihomoravskÃ½
+Jihlava,CZ,VysoÄina
+Raab,H,GyÅ‘r-Moson-Sopron
+Raab,H,Vas
+Raab,H,VeszprÃ©m
+Raab,A,Burgenland
+Raab,A,Steiermark
+Waag,SK,Å½ilinskÃ½
+Waag,SK,Nitriansky
+Waag,SK,TrenÄiansky
+Waag,SK,TrnavskÃ½
+Orava,SK,Å½ilinskÃ½
+Czarna Orava,SK,Å½ilinskÃ½
+Czarna Orava,PL,MaÅ‚opolskie
+Biela Orava,SK,Å½ilinskÃ½
+Nitra,SK,Nitriansky
+Nitra,SK,TrenÄiansky
+Hron,SK,BanskobystrickÃ½
+Hron,SK,Nitriansky
+Drau,H,Baranya
+Drau,H,Somogy
+Drau,H,Zala
+Drau,I,Trentino-Alto Adige
+Drau,A,KÃ¤rnten
+Drau,A,Tirol
+Drau,SLO,Slovenia
+Drau,HR,Croatia
+Gail,A,KÃ¤rnten
+Gail,A,Tirol
+Mur,H,Zala
+Mur,A,Steiermark
+Mur,A,Salzburg
+Mur,SLO,Slovenia
+Mur,HR,Croatia
+Tisza,SRB,Serbia
+Tisza,SK,KoÅ¡ickÃ½
+Tisza,H,Borsod-AbaÃºj-ZemplÃ©n
+Tisza,H,CsongrÃ¡d
+Tisza,H,HajdÃº-Bihar
+Tisza,H,Heves
+Tisza,H,Szabolcs-SzatmÃ¡r-Bereg
+Tisza,H,JÃ¡sz-Nagykun-Szolnok
+Tisza,UA,Cernivecka
+Tisza,RO,MaramureÅŸ
+Somes,H,Szabolcs-SzatmÃ¡r-Bereg
+Somes,RO,Bihor
+Somes,RO,Cluj
+Somes,RO,MaramureÅŸ
+Somes,RO,Satu-Mare
+SajÃ³,SK,BanskobystrickÃ½
+SajÃ³,SK,KoÅ¡ickÃ½
+SajÃ³,H,Borsod-AbaÃºj-ZemplÃ©n
+Hernad,SK,KoÅ¡ickÃ½
+Hernad,H,Borsod-AbaÃºj-ZemplÃ©n
+Torysa,SK,KoÅ¡ickÃ½
+Torysa,SK,PreÅ¡ovskÃ½
+MureÈ™,H,CsongrÃ¡d
+MureÈ™,RO,Alba
+MureÈ™,RO,Arad
+MureÈ™,RO,Harghita
+MureÈ™,RO,Hunedoara
+MureÈ™,RO,MureÅŸ
+ArgeÈ™,RO,ArgeÅŸ
+ArgeÈ™,RO,CÄƒlÄƒraÅŸi
+ArgeÈ™,RO,DÃ¢mboviÅ£a
+ArgeÈ™,RO,Giurgiu
+ArgeÈ™,RO,Ilfov
+DÃ¢mboviÈ›a,RO,ArgeÅŸ
+DÃ¢mboviÈ›a,RO,BucureÅŸti
+DÃ¢mboviÈ›a,RO,CÄƒlÄƒraÅŸi
+DÃ¢mboviÈ›a,RO,DÃ¢mboviÅ£a
+DÃ¢mboviÈ›a,RO,Ilfov
+IalomiÈ›a,RO,DÃ¢mboviÅ£a
+IalomiÈ›a,RO,IalomiÅ£a
+IalomiÈ›a,RO,Prahova
+IalomiÈ›a,RO,Ilfov
+Save,SRB,Serbia
+Save,SLO,Slovenia
+Save,HR,Croatia
+Save,BIH,Federacija Bosne i Hercegovine
+Save,BIH,Republika Srpska
+Save,BIH,BrÄko
+Bosna,BIH,Federacija Bosne i Hercegovine
+Bosna,BIH,Republika Srpska
+Drina,SRB,Serbia
+Drina,BIH,Federacija Bosne i Hercegovine
+Drina,BIH,Republika Srpska
+Tara,MNE,Montenegro
+Tara,BIH,Republika Srpska
+Piva,MNE,Montenegro
+Piva,BIH,Republika Srpska
+Morava,SRB,Serbia
+Southern Morava,MK,North Macedonia
+Southern Morava,SRB,Serbia
+Southern Morava,KOS,Kosovo
+Zapadna Morava,SRB,Serbia
+Ibar,SRB,Serbia
+Ibar,MNE,Montenegro
+Ibar,KOS,Kosovo
+Iskar,BG,Bulgaria
+Ossam,BG,Bulgaria
+TimiÅŸ,SRB,Serbia
+TimiÅŸ,RO,CaraÅŸ-Severin
+TimiÅŸ,RO,TimiÅŸ
+Jiu,RO,Dolj
+Jiu,RO,Gorj
+Jiu,RO,Hunedoara
+Jiu,RO,MehedinÅ£i
+Olt,RO,BraÅŸov
+Olt,RO,Covasna
+Olt,RO,Harghita
+Olt,RO,Olt
+Olt,RO,Sibiu
+Olt,RO,Teleorman
+Olt,RO,VÃ¢lcea
+Siret,UA,Cernivecka
+Siret,RO,BacÄƒu
+Siret,RO,BotoÅŸani
+Siret,RO,GalaÅ£i
+Siret,RO,IaÅŸi
+Siret,RO,NeamÅ£
+Siret,RO,Suceava
+Siret,RO,Vrancea
+Pruth,UA,Cernivecka
+Pruth,UA,Ivano-Frankivska
+Pruth,RO,BotoÅŸani
+Pruth,RO,GalaÅ£i
+Pruth,RO,IaÅŸi
+Pruth,RO,Vaslui
+Pruth,MD,Moldova
+Moraca,MNE,Montenegro
+Neretva,HR,Croatia
+Neretva,BIH,Federacija Bosne i Hercegovine
+Neretva,BIH,Republika Srpska
+Buna,AL,Albania
+Buna,MNE,Montenegro
+Drin,AL,Albania
+White Drin,AL,Albania
+White Drin,KOS,Kosovo
+Black Drin,AL,Albania
+Black Drin,MK,North Macedonia
+Vjosa,AL,Albania
+Vjosa,GR,Ipeiroy
+Acheloos,GR,Dytikis Elladas
+Acheloos,GR,Ipeiroy
+Acheloos,GR,Thessalias
+Aliakmonas,GR,Dytikis Makedonias
+Aliakmonas,GR,Kentrikis Makedonias
+Vardar,GR,Kentrikis Makedonias
+Vardar,MK,North Macedonia
+Struma,GR,Kentrikis Makedonias
+Struma,BG,Bulgaria
+Maritsa,GR,Anatolikis Makedonias kai Thrakis
+Maritsa,BG,Bulgaria
+Maritsa,TR,Edirne
+Tundzha,BG,Bulgaria
+Tundzha,TR,Edirne
+Nachal HaKishon,IL,Hefa
+Nachal HaKishon,IL,HaZafon
+Nachal Sorek,WB,West Bank
+Nachal Sorek,IL,Yerushalayim
+Nachal Sorek,IL,HaMerkaz
+Nachal HaBesor,GAZA,Gaza Strip
+Nachal HaBesor,IL,HaDarom
+Jordan,RL,Lebanon
+Jordan,WB,West Bank
+Jordan,IL,HaZafon
+Jordan,SYR,Al Qunaytirah
+Jordan,JOR,Jordan
+Litani,RL,Lebanon
+Orontes,TR,Hatay
+Orontes,RL,Lebanon
+Orontes,SYR,Hamah
+Orontes,SYR,Hims
+Orontes,SYR,Idlib
+Seyhan,TR,Adana
+Seyhan,TR,Mersin
+Seyhan,TR,Kayseri
+Sakarya,TR,Afyonkarahisar
+Sakarya,TR,Ankara
+Sakarya,TR,Bilecik
+Sakarya,TR,EskiÅŸehir
+Sakarya,TR,Konya
+Sakarya,TR,Sakarya
+KÄ±zÄ±lÄ±rmak,TR,Ankara
+KÄ±zÄ±lÄ±rmak,TR,Ã‡ankÄ±rÄ±
+KÄ±zÄ±lÄ±rmak,TR,Ã‡orum
+KÄ±zÄ±lÄ±rmak,TR,Kayseri
+KÄ±zÄ±lÄ±rmak,TR,KÄ±rÄ±kkale
+KÄ±zÄ±lÄ±rmak,TR,KÄ±rÅŸehir
+KÄ±zÄ±lÄ±rmak,TR,NevÅŸehir
+KÄ±zÄ±lÄ±rmak,TR,Samsun
+KÄ±zÄ±lÄ±rmak,TR,Sinop
+KÄ±zÄ±lÄ±rmak,TR,Sivas
+Rioni,GE,Georgia
+Terek,R,Dagestan
+Terek,R,Kabardino-Balkarskaya
+Terek,R,North Ossetia-Alania
+Terek,R,Chechenskaya
+Terek,GE,Georgia
+Samur,R,Dagestan
+Samur,AZ,Azerbaijan
+Kura,GE,Georgia
+Kura,AZ,Azerbaijan
+Kura,TR,Kars
+Kura,TR,Ardahan
+Aras,ARM,Armenia
+Aras,AZ,Azerbaijan
+Aras,TR,Erzurum
+Aras,TR,Kars
+Aras,TR,IÄŸdÄ±r
+Aras,IR,West Azarbayejan
+Aras,IR,East Azarbayejan
+Aras,IR,Ardebil
+Hrazdan,ARM,Armenia
+Schatt al Arab,IRQ,Basrah
+Schatt al Arab,IR,Khuzestan
+Tigris,TR,Batman
+Tigris,TR,DiyarbakÄ±r
+Tigris,TR,Mardin
+Tigris,TR,Siirt
+Tigris,TR,ÅžÄ±rnak
+Tigris,SYR,Al Hasakah
+Tigris,IRQ,Babylon
+Tigris,IRQ,Baghdad
+Tigris,IRQ,Basrah
+Tigris,IRQ,Maysan
+Tigris,IRQ,Nineveh
+Tigris,IRQ,Salah al-Deen
+Tigris,IRQ,Kirkuk
+Tigris,IRQ,Wasit
+Tigris,IRQ,Duhouk
+Tigris,IRQ,Arbil
+Euphrat,TR,AdÄ±yaman
+Euphrat,TR,DiyarbakÄ±r
+Euphrat,TR,ElazÄ±ÄŸ
+Euphrat,TR,Gaziantep
+Euphrat,TR,Malatya
+Euphrat,TR,ÅžanlÄ±urfa
+Euphrat,SYR,Al Qunaytirah
+Euphrat,SYR,Ar Raqqah
+Euphrat,SYR,Dayr az Zawr
+Euphrat,IRQ,al-Anbar
+Euphrat,IRQ,Babylon
+Euphrat,IRQ,Basrah
+Euphrat,IRQ,Thi Qar
+Euphrat,IRQ,Kerbela
+Euphrat,IRQ,al-Muthanna
+Euphrat,IRQ,al-Najaf
+Euphrat,IRQ,al-Qadisiya
+Murat,TR,AÄŸrÄ±
+Murat,TR,BingÃ¶l
+Murat,TR,ElazÄ±ÄŸ
+Murat,TR,MuÅŸ
+Karasu,TR,Erzincan
+Karasu,TR,Erzurum
+Karasu,TR,Tunceli
+Karun,IR,Kohgiluyeh and Boyer-Ahmad
+Karun,IR,Chaharmahal and Bakhtiyari
+Karun,IR,Esfahan
+Karun,IR,Khuzestan
+Sefid-Rud,IR,East Azarbayejan
+Sefid-Rud,IR,Kurdestan
+Sefid-Rud,IR,Sistan and Baluchestan
+Sefid-Rud,IR,Zanjan
+Sefid-Rud,IR,Ardebil
+Sefid-Rud,IR,Qazvin
+Atrek,IR,Khorasan-e-Razavi
+Atrek,IR,Golestan
+Atrek,IR,North Khorasan
+Atrek,TM,Balkan
+Helmand,IR,Sistan and Baluchestan
+Helmand,AFG,Afghanistan
+Northern Dwina,R,Arkhangelskaya
+Northern Dwina,R,Vologodskaya
+Suchona,R,Vologodskaya
+Vychegda,R,Komi
+Vychegda,R,Arkhangelskaya
+Pechora,R,Komi
+Pechora,R,Arkhangelskaya
+Newa,R,Leningradskaya
+Swir,R,Leningradskaya
+Wyg,R,Karelia
+Narva,EST,Estonia
+Narva,R,Leningradskaya
+Daugava,LV,Latvia
+Daugava,BY,Vitebsk
+Daugava,R,Smolenskaya
+Dnister,UA,Cernivecka
+Dnister,UA,Chmelnytska
+Dnister,UA,Ivano-Frankivska
+Dnister,UA,Lvivska
+Dnister,UA,Odeska
+Dnister,UA,Ternopilska
+Dnister,UA,Vinnytska
+Dnister,MD,Moldova
+SouthernBug,UA,Chmelnytska
+SouthernBug,UA,Kirovohradska
+SouthernBug,UA,MykolaÃ¯vska
+SouthernBug,UA,Odeska
+SouthernBug,UA,Vinnytska
+Inhul,UA,Kirovohradska
+Inhul,UA,MykolaÃ¯vska
+Dnepr,BY,Gomel
+Dnepr,BY,Mahiljou
+Dnepr,UA,Cerkaska
+Dnepr,UA,Cernihivska
+Dnepr,UA,Chersonska
+Dnepr,UA,Dnipropetrovska
+Dnepr,UA,KyÃ¯vska
+Dnepr,UA,Kirovohradska
+Dnepr,UA,Poltavska
+Dnepr,UA,Zaporizka
+Dnepr,UA,KyÃ¯v
+Dnepr,R,Smolenskaya
+Berezina,BY,Vitebsk
+Berezina,BY,Gomel
+Berezina,BY,Mahiljou
+Berezina,BY,Minsk
+Sozh,BY,Gomel
+Sozh,BY,Mahiljou
+Sozh,UA,Cernihivska
+Sozh,R,Smolenskaya
+Svislach,BY,Mahiljou
+Svislach,BY,Minsk
+Svislach,BY,Minsk City
+Prypjat,BY,Brest
+Prypjat,BY,Gomel
+Prypjat,UA,KyÃ¯vska
+Prypjat,UA,Rivnenska
+Prypjat,UA,Volynska
+Styr,BY,Brest
+Styr,UA,Lvivska
+Styr,UA,Rivnenska
+Styr,UA,Volynska
+Teteriv,UA,KyÃ¯vska
+Teteriv,UA,Zytomyrska
+Desna,UA,Cernihivska
+Desna,UA,KyÃ¯vska
+Desna,UA,Sumska
+Desna,R,Bryanskaya
+Desna,R,Smolenskaya
+Desna,R,Kirovskaya
+Seym,UA,Cernihivska
+Seym,UA,Sumska
+Seym,R,Belgorodskaya
+Seym,R,Kurskaya
+Psel,UA,Poltavska
+Psel,UA,Sumska
+Psel,R,Belgorodskaya
+Psel,R,Kurskaya
+Vorskla,UA,Poltavska
+Vorskla,UA,Sumska
+Vorskla,R,Belgorodskaya
+Vorskla,R,Kurskaya
+Inhulets,UA,Chersonska
+Inhulets,UA,Dnipropetrovska
+Inhulets,UA,Kirovohradska
+Inhulets,UA,MykolaÃ¯vska
+Kalmius,UA,Donetska
+Don,R,Tulskaya
+Don,R,Voronezhskaya
+Don,R,Lipetskaya
+Don,R,Volgogradskaya
+Don,R,Rostovskaya
+Donets,UA,Charkivska
+Donets,UA,Donetska
+Donets,UA,Luhanska
+Donets,R,Belgorodskaya
+Donets,R,Rostovskaya
+Manych,R,Kalmykiya
+Manych,R,Rostovskaya
+Manych,R,Stavropolskiy
+East Manych,R,Kalmykiya
+East Manych,R,Dagestan
+East Manych,R,Stavropolskiy
+Oskol,UA,Charkivska
+Oskol,UA,Donetska
+Oskol,R,Belgorodskaya
+Oskol,R,Kurskaya
+Kuban,R,Adygeya
+Kuban,R,Karachayevo-Cherkesskaya
+Kuban,R,Krasnodarskiy
+Kuban,R,Stavropolskiy
+Volga,R,Ivanovskaya
+Volga,R,Kostromskaya
+Volga,R,Tverskaya
+Volga,R,Yaroslavskaya
+Volga,R,Mariy-El
+Volga,R,Chuvashia
+Volga,R,Nizhnii Novgorodskaya
+Volga,R,Astrakhanskaya
+Volga,R,Volgogradskaya
+Volga,R,Penzenskaya
+Volga,R,Samarskaya
+Volga,R,Saratovskaya
+Volga,R,Ulyanovskaya
+Oka,R,Vladimirskaya
+Oka,R,Kaluzhskaya
+Oka,R,Moskovskaya
+Oka,R,Orlovskaya
+Oka,R,Ryazanskaya
+Oka,R,Tulskaya
+Oka,R,Nizhnii Novgorodskaya
+Moskva,R,Moscow
+Moskva,R,Moskovskaya
+Moskva,R,Smolenskaya
+Kama,R,Kirovskaya
+Kama,R,Tatarstan
+Kama,R,Bashkortostan
+Kama,R,Udmurtskaya
+Kama,R,Permskij
+Vyatka,R,Kirovskaya
+Vyatka,R,Tatarstan
+Vyatka,R,Udmurtskaya
+Chusovaya,R,Permskij
+Chusovaya,R,Sverdlovskaya
+Chusovaya,R,Chelyabinskaya
+Belaya,R,Kaliningradskaya
+Belaya,R,Tatarstan
+Ural,R,Bashkortostan
+Ural,R,Orenburgskaya
+Ural,R,Chelyabinskaya
+Ural,KZ,Aktobe
+Ural,KZ,Atyrau
+Ural,KZ,West Kazakhstan
+Emba,KZ,Aktobe
+Emba,KZ,Atyrau
+Ob,R,Altayskiy
+Ob,R,Novosibirskaya
+Ob,R,Tomskaya
+Ob,R,Tyumenskaya
+Irtysh,R,Omskaya
+Irtysh,R,Tyumenskaya
+Irtysh,KZ,Pavlodar
+Irtysh,KZ,East-Kazakhstan
+Irtysh,CN,Xinjiang
+Tobol,R,Orenburgskaya
+Tobol,R,Kurganskaya
+Tobol,R,Tyumenskaya
+Tobol,KZ,Kostanai
+Tura,R,Sverdlovskaya
+Tura,R,Tyumenskaya
+Tagil,R,Sverdlovskaya
+Isset,R,Kurganskaya
+Isset,R,Sverdlovskaya
+Isset,R,Tyumenskaya
+Miass,R,Bashkortostan
+Miass,R,Kurganskaya
+Miass,R,Chelyabinskaya
+Ishim,R,Omskaya
+Ishim,R,Tyumenskaya
+Ishim,KZ,Akmola
+Ishim,KZ,Karaganda
+Ishim,KZ,North-Kazakhstan
+Ishim,KZ,Astana
+Katun,R,Altay
+Katun,R,Altayskiy
+Chulym,R,Tomskaya
+Chulym,R,Khakasiya
+Chulym,R,Krasnoyarsk
+Tom,R,Kemerovskaya
+Tom,R,Tomskaya
+Tom,R,Khakasiya
+Yenissey,R,Tyva
+Yenissey,R,Khakasiya
+Yenissey,R,Krasnoyarsk
+Little Yenissey,R,Tyva
+Little Yenissey,MNG,Mongolia
+Nizhnyaya Tunguska,R,Krasnoyarsk
+Nizhnyaya Tunguska,R,Irkutskaya
+Chantaika,R,Krasnoyarsk
+Angara,R,Buryatiya
+Angara,R,Krasnoyarsk
+Angara,R,Irkutskaya
+Selenge,R,Buryatiya
+Selenge,MNG,Mongolia
+Egiin Gol,MNG,Mongolia
+Orchon,MNG,Mongolia
+Tuul,MNG,Mongolia
+Pyasina,R,Krasnoyarsk
+Taimyra,R,Krasnoyarsk
+Chatanga,R,Krasnoyarsk
+Olenyok,R,Krasnoyarsk
+Olenyok,R,Sakha
+Lena,R,Irkutskaya
+Lena,R,Sakha
+Vilyuy,R,Krasnoyarsk
+Vilyuy,R,Sakha
+Aldan,R,Sakha
+Vitim,R,Buryatiya
+Vitim,R,Irkutskaya
+Vitim,R,Zabaykalskiy
+Vitim,R,Sakha
+Indigirka,R,Sakha
+Kolyma,R,Sakha
+Kolyma,R,Magadanskaya
+Anadyr,R,Chukotka
+Kamchatka,R,Kamchatka
+Amur,R,Zabaykalskiy
+Amur,R,Jewish Autonomous Oblast
+Amur,R,Khabarovskiy
+Amur,R,Amurskaya
+Amur,CN,Heilongjiang
+Schilka,R,Zabaykalskiy
+Ingoda,R,Zabaykalskiy
+Onon,R,Zabaykalskiy
+Onon,MNG,Mongolia
+Argun,R,Zabaykalskiy
+Argun,CN,Nei Mongol
+Songhua,CN,Heilongjiang
+Songhua,CN,Jilin
+Sungacha,R,Primorskiy
+Sungacha,CN,Heilongjiang
+Ussuri,R,Primorskiy
+Ussuri,R,Khabarovskiy
+Ussuri,CN,Heilongjiang
+Kherlen,MNG,Mongolia
+Kherlen,CN,Nei Mongol
+Syrdarja,UZ,Andijon
+Syrdarja,UZ,FargÊ»ona
+Syrdarja,UZ,Namangan
+Syrdarja,UZ,Toshkent
+Syrdarja,TJ,Sughd
+Syrdarja,KZ,South-Kazakhstan
+Syrdarja,KZ,Kyzylorda
+Syrdarja,KZ,Baikonur
+Naryn,UZ,Namangan
+Naryn,KG,Kyrgyzstan
+Amudarja,AFG,Afghanistan
+Amudarja,TM,Dashhowuz
+Amudarja,TM,Lebap
+Amudarja,UZ,Samarqand
+Amudarja,UZ,QoraqalpogÊ»iston
+Amudarja,TJ,Khatlon
+Vakhsh,TJ,Regions of Republican Subordination
+Vakhsh,TJ,Khatlon
+Vakhsh,KG,Kyrgyzstan
+Pjandsh,AFG,Afghanistan
+Pjandsh,TJ,Khatlon
+Pjandsh,TJ,Gorno-Badakhshan
+Bartang,AFG,Afghanistan
+Bartang,TJ,Gorno-Badakhshan
+Ili,KZ,Almaty
+Ili,CN,Xinjiang
+KÃ¼nes,CN,Xinjiang
+Tekes,KZ,Almaty
+Tekes,CN,Xinjiang
+Tarim-Yarkend,CN,Xinjiang
+Tarim-Yarkend,CN,Xizang
+Tumen,R,Primorskiy
+Tumen,CN,Jilin
+Tumen,KP,North Korea
+Yalu,CN,Jilin
+Yalu,CN,Liaoning
+Yalu,KP,North Korea
+Taedong,KP,North Korea
+Nakdonggang,ROK,South Korea
+Namhangang,ROK,South Korea
+Bukhangang,KP,North Korea
+Bukhangang,ROK,South Korea
+Geumgang,ROK,South Korea
+Ishikari,J,Hokkaido
+Shinano,J,Gumma
+Shinano,J,Niigata
+Shinano,J,Nagano
+Tone,J,Ibaraki
+Tone,J,Gumma
+Tone,J,Saitama
+Tone,J,Chiba
+Kitakami,J,Iwate
+Kitakami,J,Miyagi
+Yodo,J,Shiga
+Yodo,J,Kyoto
+Yodo,J,Osaka
+Kushiro,J,Hokkaido
+Tamsui,RC,Taiwan
+Gaoping,RC,Taiwan
+Liao He,CN,Jilin
+Liao He,CN,Liaoning
+Liao He,CN,Nei Mongol
+Huang He,CN,Gansu
+Huang He,CN,Henan
+Huang He,CN,Qinghai
+Huang He,CN,Shaanxi
+Huang He,CN,Shandong
+Huang He,CN,Shanxi
+Huang He,CN,Sichuan
+Huang He,CN,Nei Mongol
+Huang He,CN,Ningxia
+Wei He,CN,Gansu
+Wei He,CN,Shaanxi
+Huai,CN,Anhui
+Huai,CN,Henan
+Huai,CN,Jiangsu
+Yangtze,CN,Anhui
+Yangtze,CN,Hubei
+Yangtze,CN,Hunan
+Yangtze,CN,Jiangsu
+Yangtze,CN,Jiangxi
+Yangtze,CN,Qinghai
+Yangtze,CN,Sichuan
+Yangtze,CN,Yunnan
+Yangtze,CN,Xizang
+Yangtze,CN,Shanghai
+Yangtze,CN,Chongqing
+Han,CN,Hubei
+Han,CN,Shaanxi
+Gan Jiang,CN,Jiangxi
+Xiang Jiang,CN,Hunan
+Xiang Jiang,CN,Guangxi
+Yuan Jiang,CN,Guizhou
+Yuan Jiang,CN,Hunan
+Pearl River,CN,Guangdong
+Pearl River,HK,Hong Kong
+Pearl River,MAC,Macau
+Dong Jiang,CN,Guangdong
+Bei Jiang,CN,Guangdong
+Xi Jiang,CN,Guangdong
+Xi Jiang,CN,Yunnan
+Xi Jiang,CN,Guangxi
+Hong He,CN,Yunnan
+Hong He,VN,Northern Midlands and Mountains
+Hong He,VN,Red River Delta
+Mekong,MYA,Shan
+Mekong,CN,Qinghai
+Mekong,CN,Yunnan
+Mekong,CN,Xizang
+Mekong,VN,Mekong River Delta
+Mekong,K,Cambodia
+Mekong,LAO,Laos
+Mekong,THA,Thailand
+Tonle Sap River,K,Cambodia
+Mae Nam Chao Phraya,THA,Thailand
+Mae Nam Ping,THA,Thailand
+Mae Nam Nan,THA,Thailand
+Saluen,MYA,Kayin
+Saluen,MYA,Kayah
+Saluen,MYA,Mon
+Saluen,MYA,Shan
+Saluen,CN,Yunnan
+Saluen,CN,Xizang
+Irawaddy,MYA,Ayeyarwady
+Irawaddy,MYA,Magwe
+Irawaddy,MYA,Mandalay
+Irawaddy,MYA,Bago
+Irawaddy,MYA,Sagaing
+Irawaddy,MYA,Kachin
+Irawaddy,CN,Yunnan
+Irawaddy,CN,Xizang
+Ganges,IND,Bihar
+Ganges,IND,Uttar Pradesh
+Ganges,IND,West Bengal
+Ganges,IND,Jharkhand
+Ganges,IND,Uttarakhand
+Ganges,BD,Barisal
+Ganges,BD,Chittagong
+Ganges,BD,Dhaka
+Ganges,BD,Khulna
+Ganges,BD,Rajshahi
+Ghaghara,IND,Bihar
+Ghaghara,IND,Uttar Pradesh
+Ghaghara,NEP,Nepal
+Ghaghara,CN,Xizang
+Gandaki,IND,Bihar
+Gandaki,IND,Uttar Pradesh
+Gandaki,NEP,Nepal
+Kali Gandaki,NEP,Nepal
+Trishuli,NEP,Nepal
+Trishuli,CN,Xizang
+Koshi,IND,Bihar
+Koshi,NEP,Nepal
+Sunkoshi,NEP,Nepal
+Sunkoshi,CN,Xizang
+Arun,NEP,Nepal
+Arun,CN,Xizang
+Yamuna,IND,Haryana
+Yamuna,IND,Himachal Pradesh
+Yamuna,IND,Uttar Pradesh
+Yamuna,IND,Delhi
+Yamuna,IND,Uttarakhand
+Chambal,IND,Madhya Pradesh
+Chambal,IND,Rajasthan
+Chambal,IND,Uttar Pradesh
+Brahmaputra,IND,Arunachal Pradesh
+Brahmaputra,IND,Assam
+Brahmaputra,BD,Dhaka
+Brahmaputra,BD,Rajshahi
+Brahmaputra,BD,Rangpur
+Brahmaputra,BD,Mymensingh
+Brahmaputra,CN,Xizang
+Raidak,IND,Assam
+Raidak,IND,West Bengal
+Raidak,BHT,Bhutan
+Raidak,BD,Rangpur
+Jaldhaka,IND,Sikkim
+Jaldhaka,IND,West Bengal
+Jaldhaka,BHT,Bhutan
+Jaldhaka,BD,Rangpur
+Tista,IND,Sikkim
+Tista,IND,West Bengal
+Tista,BD,Rangpur
+Meghna,IND,Assam
+Meghna,IND,Manipur
+Meghna,IND,Mizoram
+Meghna,IND,Nagaland
+Meghna,BD,Chittagong
+Meghna,BD,Dhaka
+Meghna,BD,Sylhet
+Godavari,IND,Andhra Pradesh
+Godavari,IND,Maharashtra
+Godavari,IND,Telangana
+Mahanadi,IND,Odisha
+Mahanadi,IND,Chhattisgarh
+Krishna,IND,Andhra Pradesh
+Krishna,IND,Karnataka
+Krishna,IND,Maharashtra
+Krishna,IND,Telangana
+Narmada,IND,Gujarat
+Narmada,IND,Madhya Pradesh
+Narmada,IND,Maharashtra
+Indus,PK,Gilgit-Baltistan
+Indus,PK,Khyber Pakhtunkhwa
+Indus,PK,Punjab
+Indus,PK,Sindh
+Indus,IND,Jammu and Kashmir
+Indus,CN,Xizang
+Kabul,AFG,Afghanistan
+Kabul,PK,Khyber Pakhtunkhwa
+Panjnad,PK,Punjab
+Satluj,PK,Punjab
+Satluj,IND,Himachal Pradesh
+Satluj,IND,Punjab
+Satluj,CN,Xizang
+Chanab,PK,Punjab
+Chanab,IND,Himachal Pradesh
+Chanab,IND,Jammu and Kashmir
+Jhelum,PK,Azad Jammu and Kashmir
+Jhelum,PK,Punjab
+Jhelum,IND,Jammu and Kashmir
+Ravi,PK,Punjab
+Ravi,IND,Himachal Pradesh
+Ravi,IND,Jammu and Kashmir
+Ravi,IND,Punjab
+Mahaweli,CL,Sri Lanka
+Asahan,RI,Sumatera Utara
+Batang Hari,RI,Sumatera Barat
+Batang Hari,RI,Jambi
+Solo,RI,Jawa Tengah
+Solo,RI,Jawa Timur
+Rajang,MAL,Sarawak
+Kapuas,RI,Kalimantan Barat
+Mahakam,RI,Kalimantan Timur
+Mahakam,RI,Kalimantan Utara
+Barito,RI,Kalimantan Selatan
+Pansipit River,RP,Calabarzon
+Pasig River,RP,Metro Manila
+Agus River,RP,Northern Mindanao
+Agus River,RP,Muslim Mindanao
+Mamberano,RI,Papua
+Digul,RI,Papua
+Sepik,RI,Papua
+Sepik,PNG,North
+Fly River,RI,Papua
+Fly River,PNG,South
+Ruggles River,CDN,Nunavut
+Koukdjuak River,CDN,Nunavut
+Yukon River,CDN,Yukon
+Yukon River,USA,Alaska
+Newhalen River,USA,Alaska
+Kvichak River,USA,Alaska
+Fraser River,CDN,British Columbia
+Mackenzie River,CDN,Northwest Territories
+Great Bear River,CDN,Northwest Territories
+Slave River,CDN,Alberta
+Slave River,CDN,Northwest Territories
+Athabasca River,CDN,Alberta
+Peace River,CDN,Alberta
+Peace River,CDN,British Columbia
+Liard River,CDN,British Columbia
+Liard River,CDN,Northwest Territories
+Liard River,CDN,Yukon
+Nelson River,CDN,Manitoba
+Saskatchewan River,CDN,Manitoba
+Saskatchewan River,CDN,Saskatchewan
+North Saskatchewan River,CDN,Alberta
+North Saskatchewan River,CDN,Saskatchewan
+South Saskatchewan River,CDN,Alberta
+South Saskatchewan River,CDN,Saskatchewan
+Red River of the North,CDN,Manitoba
+Red River of the North,USA,Minnesota
+Red River of the North,USA,North Dakota
+Churchill River,CDN,Newfoundland and Labrador
+Saint Lawrence River,CDN,Quebec
+Saint Lawrence River,USA,New York
+Ottawa River,CDN,Ontario
+Ottawa River,CDN,Quebec
+Niagara River,CDN,Ontario
+Niagara River,USA,New York
+Detroit River,CDN,Ontario
+Detroit River,USA,Michigan
+Saint Marys River,CDN,Ontario
+Saint Marys River,USA,Michigan
+Manitou River,CDN,Ontario
+Mindemoya River,CDN,Ontario
+Straits of Mackinac,USA,Michigan
+Nipigon River,CDN,Ontario
+Manicouagan River,CDN,Quebec
+Riviere Richelieu,CDN,Quebec
+Merrimack River,USA,Massachusetts
+Merrimack River,USA,New Hampshire
+Connecticut River,USA,Connecticut
+Connecticut River,USA,Massachusetts
+Connecticut River,USA,New Hampshire
+Connecticut River,USA,Vermont
+Hudson River,USA,New Jersey
+Hudson River,USA,New York
+Delaware River,USA,Delaware
+Delaware River,USA,New Jersey
+Delaware River,USA,New York
+Delaware River,USA,Pennsylvania
+Susquehanna River,USA,Maryland
+Susquehanna River,USA,New York
+Susquehanna River,USA,Pennsylvania
+Potomac River,USA,Maryland
+Potomac River,USA,Virginia
+Potomac River,USA,West Virginia
+Potomac River,USA,District of Columbia
+Savannah River,USA,Georgia
+Savannah River,USA,South Carolina
+Caloosahatchee River,USA,Florida
+Mississippi,USA,Arkansas
+Mississippi,USA,Illinois
+Mississippi,USA,Iowa
+Mississippi,USA,Kentucky
+Mississippi,USA,Louisiana
+Mississippi,USA,Minnesota
+Mississippi,USA,Mississippi
+Mississippi,USA,Missouri
+Mississippi,USA,Tennessee
+Mississippi,USA,Wisconsin
+Missouri,USA,Iowa
+Missouri,USA,Kansas
+Missouri,USA,Missouri
+Missouri,USA,Montana
+Missouri,USA,Nebraska
+Missouri,USA,North Dakota
+Missouri,USA,South Dakota
+Platte River,USA,Nebraska
+North Platte River,USA,Colorado
+North Platte River,USA,Nebraska
+North Platte River,USA,Wyoming
+South Platte River,USA,Colorado
+South Platte River,USA,Nebraska
+Arkansas,USA,Arkansas
+Arkansas,USA,Colorado
+Arkansas,USA,Kansas
+Arkansas,USA,Oklahoma
+Ohio River,USA,Illinois
+Ohio River,USA,Indiana
+Ohio River,USA,Kentucky
+Ohio River,USA,Ohio
+Ohio River,USA,Pennsylvania
+Ohio River,USA,West Virginia
+Allegheny River,USA,New York
+Allegheny River,USA,Pennsylvania
+Tennessee River,USA,Alabama
+Tennessee River,USA,Kentucky
+Tennessee River,USA,North Carolina
+Tennessee River,USA,Tennessee
+Columbia River,CDN,British Columbia
+Columbia River,USA,Oregon
+Columbia River,USA,Washington
+Clark Fork River,USA,Idaho
+Clark Fork River,USA,Montana
+Clark Fork River,USA,Washington
+Chelan River,USA,Oregon
+Snake River,USA,Idaho
+Snake River,USA,Oregon
+Snake River,USA,Washington
+Snake River,USA,Wyoming
+Salmon River,USA,Idaho
+Klamath River,USA,California
+Klamath River,USA,Oregon
+Sacramento River,USA,California
+Feather River,USA,California
+San Joaquin River,USA,California
+Truckee River,USA,California
+Truckee River,USA,Nevada
+Humboldt River,USA,Nevada
+Amargosa River,USA,California
+Amargosa River,USA,Nevada
+Bear River,USA,Idaho
+Bear River,USA,Utah
+Bear River,USA,Wyoming
+Jordan River,USA,Utah
+Colorado,USA,Arizona
+Colorado,USA,California
+Colorado,USA,Colorado
+Colorado,USA,Nevada
+Colorado,USA,Utah
+Colorado,MEX,Baja California
+Colorado,MEX,Sonora
+Gila River,USA,Arizona
+Gila River,USA,New Mexico
+Green River,USA,Colorado
+Green River,USA,Utah
+Green River,USA,Wyoming
+Brazos River,USA,Texas
+Rio Grande del Norte,USA,Colorado
+Rio Grande del Norte,USA,New Mexico
+Rio Grande del Norte,USA,Texas
+Rio Grande del Norte,MEX,Chihuahua
+Rio Grande del Norte,MEX,Coahuila
+Rio Grande del Norte,MEX,Nuevo LÃ©on
+Rio Grande del Norte,MEX,Tamaulipas
+Rio Lerma Santiago,MEX,Guanajuato
+Rio Lerma Santiago,MEX,Jalisco
+Rio Lerma Santiago,MEX,"MÃ©xico, Estado de"
+Rio Lerma Santiago,MEX,MichoacÃ¡n
+Rio Lerma Santiago,MEX,Nayarit
+Rio Lerma Santiago,MEX,QuerÃ©taro
+Rio Usumacinta,MEX,Campeche
+Rio Usumacinta,MEX,Chiapas
+Rio Usumacinta,MEX,Tabasco
+Rio Usumacinta,GCA,Guatemala
+Rio Grijalva,MEX,Chiapas
+Rio Grijalva,MEX,Tabasco
+Rio Grijalva,GCA,Guatemala
+Belize River,BZ,Belize
+Belize River,GCA,Guatemala
+Rio Dulce,GCA,Guatemala
+Rio Motagua,GCA,Guatemala
+Rio Lempa,GCA,Guatemala
+Rio Lempa,ES,El Salvador
+Rio Lempa,HN,IntibucÃ¡
+Rio Lempa,HN,Ocotepeque
+Rio Lempa,HN,Olancho
+Rio Patuca,HN,ColÃ³n
+Rio Patuca,HN,El ParaÃ­so
+Rio Patuca,HN,Lempira
+Rio Coco,HN,ColÃ³n
+Rio Coco,HN,Choluteca
+Rio Coco,HN,El ParaÃ­so
+Rio Coco,NIC,Nicaragua
+Rio San Juan,NIC,Nicaragua
+Rio San Juan,CR,Alajuela
+Rio San Juan,CR,Heredia
+Rio San Juan,CR,LimÃ³n
+Rio Chepo,PA,PanamÃ¡
+Rio Cauto,C,Granma
+Rio Cauto,C,HolguÃ­n
+Rio Cauto,C,Santiago de Cuba
+Artibonito,RH,Haiti
+Artibonito,DOM,Dominican Republic
+Rio Guayas,EC,Ecuador
+Rio Magdalena,CO,Antioquia
+Rio Magdalena,CO,AtlÃ¡ntico
+Rio Magdalena,CO,BolÃ­var
+Rio Magdalena,CO,BoyacÃ¡
+Rio Magdalena,CO,Caldas
+Rio Magdalena,CO,Cesar
+Rio Magdalena,CO,Cundinamarca
+Rio Magdalena,CO,Huila
+Rio Magdalena,CO,Magdalena
+Rio Magdalena,CO,Santander
+Rio Magdalena,CO,Tolima
+Rio Cauca,CO,Antioquia
+Rio Cauca,CO,BolÃ­var
+Rio Cauca,CO,Caldas
+Rio Cauca,CO,Cauca
+Rio Cauca,CO,Risaralda
+Rio Cauca,CO,Sucre
+Rio Cauca,CO,Valle de Cauca
+Rio Bogota,CO,Cundinamarca
+Rio Bogota,CO,BogotÃ¡ Distrito Especial
+Catatumbo,YV,Zulia
+Catatumbo,CO,Norte de Santander
+Orinoco,YV,Amazonas
+Orinoco,YV,AnzoÃ¡tegui
+Orinoco,YV,Apure
+Orinoco,YV,BolÃ­var
+Orinoco,YV,Delta Amacuro
+Orinoco,YV,GuÃ¡rico
+Orinoco,YV,Monagas
+Orinoco,CO,GuainÃ­a
+Orinoco,CO,Vichada
+Arauca,YV,Apure
+Arauca,CO,Arauca
+Arauca,CO,BoyacÃ¡
+Arauca,CO,Norte de Santander
+Apure,YV,Apure
+Apure,YV,Barinas
+Apure,YV,GuÃ¡rico
+Apure,YV,TÃ¡chira
+Rio Meta,YV,Apure
+Rio Meta,CO,Arauca
+Rio Meta,CO,Casanare
+Rio Meta,CO,Cundinamarca
+Rio Meta,CO,Meta
+Rio Meta,CO,Vichada
+Rio Guaviare,CO,GuainÃ­a
+Rio Guaviare,CO,Guaviare
+Rio Guaviare,CO,Meta
+Rio Guaviare,CO,Vichada
+Essequibo,GUY,Guyana
+Suriname,SME,Suriname
+Oyapock,GF,French Guiana
+Oyapock,BR,AmapÃ¡
+Amazonas,CO,Amazonas
+Amazonas,PE,Loreto
+Amazonas,BR,AmapÃ¡
+Amazonas,BR,Amazonas
+Amazonas,BR,ParÃ¡
+Rio Negro,YV,Amazonas
+Rio Negro,CO,GuainÃ­a
+Rio Negro,BR,Amazonas
+Rio Negro,BR,Roraima
+Japura,CO,Amazonas
+Japura,CO,CaquetÃ¡
+Japura,CO,Putumayo
+Japura,CO,Valle de Cauca
+Japura,BR,Amazonas
+Rio Putumayo,CO,Amazonas
+Rio Putumayo,CO,Putumayo
+Rio Putumayo,EC,Ecuador
+Rio Putumayo,PE,Loreto
+Rio Putumayo,BR,Amazonas
+Maranon,PE,Amazonas
+Maranon,PE,Ancash
+Maranon,PE,Cajamarca
+Maranon,PE,HuÃ¡nuco
+Maranon,PE,La Libertad
+Maranon,PE,Loreto
+Huallaga,PE,HuÃ¡nuco
+Huallaga,PE,Loreto
+Huallaga,PE,Pasco
+Huallaga,PE,San MartÃ­n
+Ucayali,PE,JunÃ­n
+Ucayali,PE,Loreto
+Ucayali,PE,Ucayali
+Urubamba,PE,Cusco
+Urubamba,PE,Puno
+Urubamba,PE,Ucayali
+Tambo,PE,JunÃ­n
+Perene,PE,JunÃ­n
+Ene,PE,JunÃ­n
+Mantaro,PE,Huancavelica
+Mantaro,PE,JunÃ­n
+Mantaro,PE,Lima
+Apurimac,PE,Arequipa
+Apurimac,PE,Ayacucho
+Apurimac,PE,Cusco
+Apurimac,PE,JunÃ­n
+Jurua,PE,Ucayali
+Jurua,BR,Acre
+Jurua,BR,Amazonas
+Purus,PE,Ucayali
+Purus,BR,Acre
+Purus,BR,Amazonas
+Acre,PE,Madre de Dios
+Acre,BOL,Pando
+Acre,BR,Acre
+Acre,BR,Amazonas
+Rio Madeira,BOL,Pando
+Rio Madeira,BR,Amazonas
+Rio Madeira,BR,RondÃ´nia
+Beni,BOL,La Paz
+Beni,BOL,Beni
+Beni,BOL,Pando
+Beni,BOL,Cochabamba
+Rio Madre de Dios,PE,Madre de Dios
+Rio Madre de Dios,BOL,La Paz
+Rio Madre de Dios,BOL,Pando
+Rio MamorÃ©,BOL,Santa Cruz
+Rio MamorÃ©,BOL,Beni
+Rio MamorÃ©,BOL,Cochabamba
+Rio Guapay,BOL,Santa Cruz
+Rio Guapay,BOL,Beni
+Rio GuaporÃ©,BOL,Santa Cruz
+Rio GuaporÃ©,BOL,Beni
+Rio GuaporÃ©,BR,Mato Grosso
+Rio GuaporÃ©,BR,RondÃ´nia
+TapajÃ³s,BR,Amazonas
+TapajÃ³s,BR,ParÃ¡
+Juruena,BR,Amazonas
+Juruena,BR,Mato Grosso
+Rio Teles Pires,BR,Amazonas
+Rio Teles Pires,BR,Mato Grosso
+Xingu,BR,Mato Grosso
+Xingu,BR,ParÃ¡
+Tocantins,BR,GoiÃ¡s
+Tocantins,BR,MaranhÃ£o
+Tocantins,BR,ParÃ¡
+Tocantins,BR,Tocantins
+Araguaia,BR,GoiÃ¡s
+Araguaia,BR,MaranhÃ£o
+Araguaia,BR,Mato Grosso
+Araguaia,BR,ParÃ¡
+Araguaia,BR,Tocantins
+Rio Parnaiba,BR,MaranhÃ£o
+Rio Parnaiba,BR,PiauÃ­
+Rio Sao Francisco,BR,Alagoas
+Rio Sao Francisco,BR,Bahia
+Rio Sao Francisco,BR,Minas Gerais
+Rio Sao Francisco,BR,Pernambuco
+Rio Sao Francisco,BR,Sergipe
+Rio Paraiba do Sul,BR,Minas Gerais
+Rio Paraiba do Sul,BR,Rio de Janeiro
+Rio Paraiba do Sul,BR,SÃ£o Paulo
+Parana,RA,Buenos Aires
+Parana,RA,Chaco
+Parana,RA,Corrientes
+Parana,RA,Entre RÃ­os
+Parana,RA,Misiones
+Parana,RA,Santa Fe
+Parana,RA,Distrito Federal
+Parana,PY,Paraguay
+Parana,BR,Mato Grosso do Sul
+Parana,BR,ParanÃ¡
+Parana,BR,SÃ£o Paulo
+Paranaiba,BR,GoiÃ¡s
+Paranaiba,BR,Mato Grosso do Sul
+Paranaiba,BR,Minas Gerais
+Rio Grande,BR,Minas Gerais
+Rio Grande,BR,SÃ£o Paulo
+Tiete,BR,SÃ£o Paulo
+Paranapanema,BR,ParanÃ¡
+Paranapanema,BR,SÃ£o Paulo
+Iguacu,BR,ParanÃ¡
+Iguacu,BR,Santa Catarina
+Paraguay,BOL,Santa Cruz
+Paraguay,RA,Chaco
+Paraguay,RA,Formosa
+Paraguay,PY,Paraguay
+Paraguay,BR,Mato Grosso
+Paraguay,BR,Mato Grosso do Sul
+Pilcomayo,BOL,PotosÃ­
+Pilcomayo,BOL,Chuquisaca
+Pilcomayo,BOL,Tarija
+Pilcomayo,RA,Formosa
+Pilcomayo,RA,Salta
+Pilcomayo,PY,Paraguay
+Rio CuiabÃ¡,BR,Mato Grosso
+Rio CuiabÃ¡,BR,Mato Grosso do Sul
+Rio Salado,RA,Salta
+Rio Salado,RA,Santa Fe
+Rio Salado,RA,Santiago de Estero
+Uruguay,RA,Corrientes
+Uruguay,RA,Entre RÃ­os
+Uruguay,RA,Misiones
+Uruguay,ROU,Uruguay
+Uruguay,BR,Rio Grande do Sul
+RÃ­o Sali,RA,CÃ³rdoba
+RÃ­o Sali,RA,Salta
+RÃ­o Sali,RA,Santiago de Estero
+RÃ­o Sali,RA,TucumÃ¡n
+RÃ­o Colorado,RA,Buenos Aires
+RÃ­o Colorado,RA,La Pampa
+RÃ­o Colorado,RA,Mendoza
+RÃ­o Colorado,RA,NeuquÃ©n
+RÃ­o Colorado,RA,RÃ­o Negro
+RÃ­o Salado del Oeste,RA,La Pampa
+RÃ­o Salado del Oeste,RA,La Rioja
+RÃ­o Salado del Oeste,RA,Mendoza
+RÃ­o Salado del Oeste,RA,San Juan
+RÃ­o Salado del Oeste,RA,San Luis
+RÃ­o Neuquen,RA,Buenos Aires
+RÃ­o Neuquen,RA,NeuquÃ©n
+RÃ­o Neuquen,RA,RÃ­o Negro
+RÃ­o Limay,RA,NeuquÃ©n
+RÃ­o Limay,RA,RÃ­o Negro
+RÃ­o Chubut,RA,Chubut
+RÃ­o Chubut,RA,RÃ­o Negro
+RÃ­o Deseado,RA,Santa Cruz
+RÃ­o Santa Cruz,RA,Santa Cruz
+Rio Rimac,PE,Callao
+Rio Rimac,PE,Lima
+Rio Rimac,PE,Lima City
+Rio Desaguadero,BOL,La Paz
+Rio Desaguadero,BOL,Oruro
+Rio Loa,RCH,Antofagasta
+RÃ­o BÃ­o BÃ­o,RCH,BÃ­o-BÃ­o
+RÃ­o BÃ­o BÃ­o,RCH,AraucanÃ­a
+RÃ­o Baker,RCH,AysÃ©n
+RÃ­o Azopardo,RCH,Magallanes
+Sebou,MA,Gharb Chrarda Beni Hssen
+Sebou,MA,Fes Boulemane
+Moulouya,MA,Oriental
+Moulouya,MA,Meknes Tafilalet
+Chelif,DZ,Algeria
+Rhumel,DZ,Algeria
+Medjerda,TN,Tunisia
+Medjerda,DZ,Algeria
+Senegal,RMM,Kayes
+Senegal,RIM,Brakna
+Senegal,RIM,Gorgol
+Senegal,RIM,Guidimagha
+Senegal,RIM,Trarza
+Senegal,SN,Saint-Louis
+Senegal,SN,Tambacounda
+Senegal,SN,Matam
+Senegal,RG,Guinea
+Gambia,SN,Kolda
+Gambia,SN,Tambacounda
+Gambia,SN,KÃ©dougou
+Gambia,WAG,Gambia
+Gambia,RG,Guinea
+Rio Corubal,GUB,Guinea-Bissau
+Rio Corubal,RG,Guinea
+Rokel,SLE,Sierra Leone
+Moa,RG,Guinea
+Moa,SLE,Sierra Leone
+Moa,LB,Liberia
+Saint Paul River,RG,Guinea
+Saint Paul River,LB,Liberia
+Bandama,RMM,Sikasso
+Bandama,CI,Abidjan
+Bandama,CI,GÃ´h-Djiboua
+Bandama,CI,Lagunes
+Bandama,CI,Savanes
+Bandama,CI,VallÃ©e du Bandama
+Bandama,CI,Woroba
+ComoÃ©,BF,Burkina Faso
+ComoÃ©,CI,Lacs
+ComoÃ©,CI,Lagunes
+ComoÃ©,CI,ComoÃ©
+ComoÃ©,CI,Savanes
+ComoÃ©,CI,VallÃ©e du Bandama
+ComoÃ©,CI,Zanzan
+Volta,BF,Burkina Faso
+Volta,CI,Zanzan
+Volta,GH,Bono
+Volta,GH,Bono East
+Volta,GH,Eastern
+Volta,GH,Greater Accra
+Volta,GH,Savannah
+Volta,GH,Upper West
+Volta,GH,Volta
+Oti,BF,Burkina Faso
+Oti,GH,Northern
+Oti,GH,North East
+Oti,GH,Oti
+Oti,RT,Togo
+Oti,BEN,Benin
+OuÃ©mÃ©,BEN,Benin
+Mono,RT,Togo
+Mono,BEN,Benin
+Niger,RMM,Bamako
+Niger,RMM,Gao
+Niger,RMM,Kayes
+Niger,RMM,Koulikoro
+Niger,RMM,Mopti
+Niger,RMM,SÃ©gou
+Niger,RMM,Tombouctou
+Niger,RG,Guinea
+Niger,NGR,Anambra
+Niger,NGR,Bayelsa
+Niger,NGR,Delta
+Niger,NGR,Edo
+Niger,NGR,Kebbi
+Niger,NGR,Kogi
+Niger,NGR,Kwara
+Niger,NGR,Niger
+Niger,NGR,Rivers
+Niger,RN,Dosso
+Niger,RN,Niamey
+Niger,RN,TillabÃ©ri
+Tinkisso,RG,Guinea
+Bani,RMM,Koulikoro
+Bani,RMM,Mopti
+Bani,RMM,SÃ©gou
+BaoulÃ©,RMM,Koulikoro
+BaoulÃ©,RMM,Sikasso
+BaoulÃ©,CI,DenguÃ©lÃ©
+BagoÃ©,RMM,Koulikoro
+BagoÃ©,RMM,Sikasso
+BagoÃ©,CI,Savanes
+Sirba,BF,Burkina Faso
+Sirba,RN,TillabÃ©ri
+MÃ©krou,BF,Burkina Faso
+MÃ©krou,BEN,Benin
+MÃ©krou,RN,TillabÃ©ri
+Sokoto,NGR,Katsina
+Sokoto,NGR,Kebbi
+Sokoto,NGR,Sokoto
+Sokoto,NGR,Zamfara
+Kaduna,NGR,Kaduna
+Kaduna,NGR,Niger
+Kaduna,NGR,Plateau
+Benue,NGR,Adamawa
+Benue,NGR,Benue
+Benue,NGR,Kogi
+Benue,NGR,Nasarawa
+Benue,NGR,Taraba
+Benue,CAM,Nord
+Gongola,NGR,Adamawa
+Gongola,NGR,Bauchi
+Gongola,NGR,Borno
+Gongola,NGR,Gombe
+Gongola,NGR,Plateau
+Yobe,NGR,Borno
+Yobe,NGR,Yobe
+Yobe,RN,Diffa
+Hadejia,NGR,Jigawa
+Hadejia,NGR,Kano
+Hadejia,NGR,Yobe
+Jamaare,NGR,Bauchi
+Jamaare,NGR,Jigawa
+Jamaare,NGR,Plateau
+Jamaare,NGR,Yobe
+Mayo Kebbi,TCH,Chad
+Mayo Kebbi,CAM,ExtrÃªme-Nord
+Mayo Kebbi,CAM,Nord
+Logone,TCH,Chad
+Logone,CAM,Adamaoua
+Logone,CAM,Nord
+Schari,TCH,Chad
+Schari,RCA,Central African Republic
+Schari,CAM,ExtrÃªme-Nord
+Nile,ET,Egypt
+Nile,SUD,Al-Khará¹­Å«m
+Nile,SUD,Ash-ShamÄlÄ«yah
+Nile,SUD,Nahr an-NÄ«l
+Atbara,SUD,Al-Qaá¸Ärif
+Atbara,SUD,KassalÄ
+Atbara,SUD,Nahr an-NÄ«l
+Atbara,ETH,Amhara
+Tekeze,SUD,Al-Qaá¸Ärif
+Tekeze,ETH,Amhara
+Tekeze,ETH,Tigray
+Tekeze,ER,Eritrea
+Mareb,SUD,KassalÄ
+Mareb,ETH,Tigray
+Mareb,ER,Eritrea
+Blue Nile,SUD,Al-JazÄ«rah
+Blue Nile,SUD,Al-Khará¹­Å«m
+Blue Nile,SUD,An-NÄ«l al-Azraq
+Blue Nile,SUD,SannÄr
+Blue Nile,ETH,Amhara
+Blue Nile,ETH,Benishangul-Gumuz
+Blue Nile,ETH,Oromia
+White Nile,SUD,Al-Khará¹­Å«m
+White Nile,SUD,An-NÄ«l al-Abyaá¸
+White Nile,SSD,South Sudan
+Sobat,SSD,South Sudan
+Pibor,SSD,South Sudan
+Pibor,ETH,Gambella
+Baro,SSD,South Sudan
+Baro,ETH,Gambella
+Baro,ETH,Oromia
+Bahr el-Djebel/Albert Nil,SSD,South Sudan
+Bahr el-Djebel/Albert Nil,EAU,Northern
+Bahr el-Ghazal,SSD,South Sudan
+Semliki,CGO,Nord-Kivu
+Semliki,CGO,Ituri
+Semliki,EAU,Western
+Victoria Nile,EAU,Central
+Victoria Nile,EAU,Eastern
+Victoria Nile,EAU,Northern
+Victoria Nile,EAU,Western
+Kagera,EAT,Kagera
+Kagera,RWA,Rwanda
+Kagera,EAU,Central
+Kagera,EAU,Western
+Rukurara-Nyabarongo,EAT,Kagera
+Rukurara-Nyabarongo,BI,Burundi
+Rukurara-Nyabarongo,RWA,Rwanda
+Ruvuvu,EAT,Kagera
+Ruvuvu,BI,Burundi
+Luvironza,BI,Burundi
+Simiyu,EAT,Mwanza
+Simiyu,EAT,Simiyu
+Mara,EAT,Mara
+Mara,EAK,Kenya
+Nzoia,EAK,Kenya
+Tana,EAK,Kenya
+Jubba,SO,Somalia
+Jubba,ETH,Oromia
+Jubba,ETH,Somali
+Shabelle,SO,Somalia
+Shabelle,ETH,Oromia
+Shabelle,ETH,Somali
+Sanaga,CAM,Centre
+Sanaga,CAM,Est
+Sanaga,CAM,Littoral
+Ntem,CAM,Sud
+Ntem,GQ,Continental
+Ntem,G,Gabon
+Komo,GQ,Continental
+Komo,G,Gabon
+OgoouÃ©,G,Gabon
+OgoouÃ©,RCB,LÃ©koumou
+Congo,RCB,Kouilou
+Congo,RCB,Niari
+Congo,RCB,Bouenza
+Congo,RCB,Pool
+Congo,RCB,Plateaux
+Congo,RCB,Cuvette
+Congo,RCB,Likouala
+Congo,RCB,Brazzaville
+Congo,CGO,Kinshasa
+Congo,CGO,Kongo Central
+Congo,CGO,Mai-Ndombe
+Congo,CGO,Tshopo
+Congo,CGO,Mongala
+Congo,CGO,Ã‰quateur
+Sanga,RCA,Central African Republic
+Sanga,CAM,Est
+Sanga,RCB,Cuvette
+Sanga,RCB,Sangha
+Sanga,RCB,Likouala
+Kadei,RCA,Central African Republic
+Kadei,CAM,Est
+Mambere,RCA,Central African Republic
+Ubangi,RCA,Central African Republic
+Ubangi,RCB,Likouala
+Ubangi,CGO,Nord-Ubangi
+Ubangi,CGO,Sud-Ubangi
+Ubangi,CGO,Ã‰quateur
+Mbomou,RCA,Central African Republic
+Mbomou,CGO,Haut-Uele
+Mbomou,CGO,Bas-Uele
+Uelle,CGO,Ituri
+Uelle,CGO,Haut-Uele
+Uelle,CGO,Bas-Uele
+Uelle,CGO,Nord-Ubangi
+Fimi,CGO,Mai-Ndombe
+Lukenie,CGO,Mai-Ndombe
+Lukenie,CGO,Kasai
+Lukenie,CGO,Sankuru
+Kasai,CGO,Kwilu
+Kasai,CGO,Mai-Ndombe
+Kasai,CGO,Kasai
+Kasai,CGO,Kasai-Central
+Kasai,CGO,Lualaba
+Kasai,ANG,Lunda-Norte
+Kasai,ANG,Lunda-Sul
+Kasai,ANG,Moxico
+Cuango,CGO,Kinshasa
+Cuango,CGO,Kwango
+Cuango,CGO,Kwilu
+Cuango,CGO,Mai-Ndombe
+Cuango,ANG,UÃ­ge
+Cuango,ANG,Malanje
+Cuango,ANG,Lunda-Norte
+Cuango,ANG,Lunda-Sul
+Cuilo,CGO,Kwango
+Cuilo,CGO,Kwilu
+Cuilo,ANG,Lunda-Sul
+Cuilo,ANG,Cunene
+Lulua,CGO,Kasai
+Lulua,CGO,Kasai-Central
+Lulua,CGO,Lualaba
+Tshuapa,CGO,Sankuru
+Tshuapa,CGO,Ã‰quateur
+Tshuapa,CGO,Tshuapa
+Lomami,CGO,Lomami
+Lomami,CGO,Sankuru
+Lomami,CGO,Maniema
+Lomami,CGO,Tshopo
+Lomami,CGO,Haut-Lomami
+Aruwimi,CGO,Ituri
+Aruwimi,CGO,Haut-Uele
+Aruwimi,CGO,Tshopo
+Lualaba,CGO,Maniema
+Lualaba,CGO,Tshopo
+Lualaba,CGO,Tanganyika
+Lualaba,CGO,Haut-Lomami
+Lualaba,CGO,Lualaba
+Lukuga,CGO,Tanganyika
+Ruzizi,CGO,Sud-Kivu
+Ruzizi,BI,Burundi
+Ruzizi,RWA,Rwanda
+Malagarasi,EAT,Kigoma
+Malagarasi,EAT,Katavi
+Luvua,CGO,Haut-Katanga
+Luapula,CGO,Haut-Katanga
+Luapula,Z,Luapula
+Chambeshi,Z,Luapula
+Chambeshi,Z,Northern
+Chambeshi,Z,Muchinga
+Rufiji,EAT,Morogoro
+Rufiji,EAT,Pwani
+Rufiji,EAT,Lindi
+Rufiji,EAT,Njombe
+Zambezi,ANG,Moxico
+Zambezi,NAM,Namibia
+Zambezi,RB,Botswana
+Zambezi,MOC,Manica
+Zambezi,MOC,Sofala
+Zambezi,MOC,Tete
+Zambezi,MOC,ZambÃ©zia
+Zambezi,ZW,Zimbabwe
+Zambezi,Z,Central
+Zambezi,Z,Lusaka
+Zambezi,Z,North-Western
+Zambezi,Z,Southern
+Zambezi,Z,Western
+Cuando,ANG,Moxico
+Cuando,ANG,Cuando Cubango
+Cuando,NAM,Namibia
+Cuando,RB,Botswana
+Kafue,Z,Central
+Kafue,Z,Copperbelt
+Kafue,Z,Lusaka
+Kafue,Z,North-Western
+Kafue,Z,Southern
+Luangwa,MOC,Tete
+Luangwa,Z,Central
+Luangwa,Z,Eastern
+Luangwa,Z,Lusaka
+Luangwa,Z,Muchinga
+Shire,MOC,Tete
+Shire,MOC,ZambÃ©zia
+Shire,MW,Malawi
+Cuanza,ANG,Luanda
+Cuanza,ANG,Cuanza Norte
+Cuanza,ANG,Cuanza Sul
+Cuanza,ANG,Malanje
+Cuanza,ANG,BiÃ©
+Cuanza,ANG,Bengo
+Cunene,ANG,Huambo
+Cunene,ANG,Namibe
+Cunene,ANG,HuÃ­la
+Cunene,ANG,Cunene
+Cunene,NAM,Namibia
+Okavango,ANG,BiÃ©
+Okavango,ANG,Cuando Cubango
+Okavango,NAM,Namibia
+Okavango,RB,Botswana
+Cuito,ANG,Moxico
+Cuito,ANG,Cuando Cubango
+Limpopo,RB,Botswana
+Limpopo,RSA,Gauteng
+Limpopo,RSA,Limpopo
+Limpopo,MOC,Gaza
+Limpopo,ZW,Zimbabwe
+Oranje,NAM,Namibia
+Oranje,RSA,Free State
+Oranje,RSA,Northern Cape
+Oranje,LS,Lesotho
+Vaal,RSA,Free State
+Vaal,RSA,Mpumalanga
+Vaal,RSA,Northern Cape
+Vaal,RSA,North West
+Mangoky,RM,Madagascar
+Murchison River,AUS,Western Australia
+Roper River,AUS,Northern Territory
+Georgina River,AUS,Northern Territory
+Georgina River,AUS,Queensland
+Georgina River,AUS,South Australia
+Murray River,AUS,New South Wales
+Murray River,AUS,South Australia
+Murray River,AUS,Victoria
+Darling River,AUS,New South Wales
+Barwon River,AUS,New South Wales
+Barwon River,AUS,Queensland
+Macintyre River,AUS,New South Wales
+Macintyre River,AUS,Queensland
+Weir River,AUS,Queensland
+Culgoa River,AUS,New South Wales
+Culgoa River,AUS,Queensland
+Murrumbidgee River,AUS,New South Wales
+Murrumbidgee River,AUS,Australia Capital Territory
+Lachlan River,AUS,New South Wales
+Molonglo River,AUS,New South Wales
+Molonglo River,AUS,Australia Capital Territory
+Eucumbene River,AUS,New South Wales
+Snowy River,AUS,New South Wales
+Snowy River,AUS,Victoria
+Waikato River,NZ,New Zealand
+Whangaehu River,NZ,New Zealand
+Clutha River,NZ,New Zealand
