@@ -56,5 +56,5 @@ Generally, the web clients wait for the right database containers to start up. I
 
 # Problem and solution
 
-If you have a problem with mongoDB Client and get the "Authentication error" you should open the container dbms/mongo/exce and execute the comando: mongosh "mongodb://mongo:MONGO_PASSWORD@localhost:27017/mondial?authSource=admin" and create a user with admin rights: db.createUser({user: "mongo", pwd: "MONGO_PASSWORD", roles: [ { role: "readWrite", db: "mondial" } ]}) 
-By replacing the mongo with your mongo_user_name and the MONGO_PASSWORD with your mongo_password.
+If you have a problem with mongoDB Client and get the `Authentication error` you should open the container `dbms/mongo/exce` and execute the comando: `mongosh "mongodb://mongo:MONGO_PASSWORD@localhost:27017/mondial?authSource=admin"` and create a user with admin rights: `db.createUser({user: "mongo", pwd: "MONGO_PASSWORD", roles: [ { role: "readWrite", db: "mondial" }, { role: "readWrite", db: "dbms" } ]}) `
+By replacing the `mongo` with your mongo_user_name and the `MONGO_PASSWORD` with your mongo_password.
