@@ -123,6 +123,13 @@ MATCH (co: Country {code: row.country})
 MATCH (ci: City {name: row.city})
 MERGE (ci)-[:CITY_IN_COUNTRY]->(co);
 
+// city located in province
+LOAD CSV WITH HEADERS FROM 'file:///csv/located.csv' AS row
+MATCH (c:City {name: row.city})
+MATCH (p:Province {name: row.province})
+MERGE (c)-[:CITY_IN_PROVINCE]->(p);
+
+
 // country has economy
 LOAD CSV WITH HEADERS FROM 'file:///csv/economy.csv' AS row
 MATCH (c:Country {code: row.country})
