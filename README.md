@@ -66,10 +66,10 @@ By replacing the `mongo` with your mongo_user_name and the `MONGO_PASSWORD` with
 If the .cypher scripts were not executed properly (e.g. do not see node labels or relationship types in your database).
 You can manually run the scripts by entering the following in your CLI: 
 
-docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/nodes.cypher
+`docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/nodes.cypher`
 and
-docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/relationships.cypher
+`docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/relationships.cypher`
 
-Please make sure to change you password as defined in .env
+Please make sure to change you password as defined in `.env`
 
 If you still having issues with the import: copy and past the contents of nodes.cypher and relationships.cypher manually in the query field of the database.
