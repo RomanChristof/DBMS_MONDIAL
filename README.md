@@ -59,3 +59,17 @@ Generally, the web clients wait for the right database containers to start up. I
 
 If you have a problem with mongoDB Client and get the `Authentication error` you should open the container `dbms/mongo/exce` and execute the comando: `mongosh "mongodb://mongo:MONGO_PASSWORD@localhost:27017/mondial?authSource=admin"` and create a user with admin rights: `db.createUser({user: "mongo", pwd: "MONGO_PASSWORD", roles: [ { role: "readWrite", db: "mondial" }, { role: "readWrite", db: "dbms" } ]}) `
 By replacing the `mongo` with your mongo_user_name and the `MONGO_PASSWORD` with your mongo_password.
+
+
+# (Neo4J) Did not load nodes or relationships
+
+If the .cypher scripts were not executed properly (e.g. do not see node labels or relationship types in your database).
+You can manually run the scripts by entering the following in your CLI: 
+
+docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/nodes.cypher
+and
+docker exec -it dbms-neo4j-1 cypher-shell -u <your_usernamen> -p <your_password> -f /var/lib/neo4j/import/relationships.cypher
+
+Please make sure to change you password as defined in .env
+
+If you still having issues with the import: copy and past the contents of nodes.cypher and relationships.cypher manually in the query field of the database.
