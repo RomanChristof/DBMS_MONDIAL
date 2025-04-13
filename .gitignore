@@ -1,2 +1,4 @@
 scripts/postgres/mondial-inputs.psql
 scripts/postgres/mondial-schema.psql
+data
+dbms_mondial
