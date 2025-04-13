@@ -79,6 +79,8 @@ and
 
 Please make sure to change you password as defined in `.env`
 
+You still having issues with the import: copy and past the contents of `nodes.cypher` and `relationships.cypher` manually as query's in the database.  
+
 ### Startup Timing and Healthcheck Behavior
 In general, the Neo4j web interface becomes available once the corresponding container has started. 
 However, if the startup process takes longer than expected, Docker might incorrectly mark the container as unhealthy 
