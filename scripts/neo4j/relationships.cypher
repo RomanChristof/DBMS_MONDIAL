@@ -230,7 +230,6 @@ MATCH (c:City {name: row.city})
 MATCH (s:Sea {name: row.sea})
 MERGE (c)-[:CITY_AT_SEA]->(s);
 
-
 // island in river
 LOAD CSV WITH HEADERS FROM 'file:///csv/islandin.csv' AS row
 MATCH (i:Island {name: row.island})
@@ -243,13 +242,11 @@ MATCH (i:Island {name: row.island})
 MATCH (s:Lake {name: row.lake})
 MERGE (i)-[:ISLAND_IN_LAKE]->(s);
 
-
 // river on Island
 LOAD CSV WITH HEADERS FROM 'file:///csv/riveronisland.csv' AS row
 MATCH (r:River {name: row.river})
 MATCH (i:Island {name: row.island})
 MERGE (r)-[:RIVER_ON_ISLAND]->(i);
-
 
 // link country and SocioEconomic
 LOAD CSV WITH HEADERS FROM 'file:///csv/country.csv' AS row

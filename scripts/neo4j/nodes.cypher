@@ -196,6 +196,7 @@ SET n.gdp = CASE WHEN econ.gdp IS NOT NULL AND econ.gdp <> '' THEN toInteger(tri
     n.infant_mortality = CASE WHEN pop.infant_mortality IS NOT NULL AND pop.infant_mortality <> '' THEN toFloat(trim(pop.infant_mortality)) ELSE NULL END,
     n.country_name = econ.country;
 
+
 // Load year node
 LOAD CSV WITH HEADERS FROM 'file:///csv/year.csv' AS row
 WITH row
