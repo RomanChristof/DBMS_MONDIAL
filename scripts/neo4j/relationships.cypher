@@ -194,7 +194,6 @@ MATCH (p:Province {name: row.province})
 MATCH (l:Lake {name: row.lake})
 MERGE (l)-[:LAKE_IN_PROVINCE]->(p);
 
-
 // island located in province
 LOAD CSV WITH HEADERS FROM 'file:///csv/locatedon.csv' AS row
 MATCH (p:Province {name: row.province})

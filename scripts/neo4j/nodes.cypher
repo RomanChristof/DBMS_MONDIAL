@@ -83,6 +83,7 @@ SET n.name = CASE WHEN row.name IS NOT NULL AND row.name <> '' THEN row.name ELS
     n.type = CASE WHEN row.type IS NOT NULL AND row.type <> '' THEN row.type ELSE NULL END,
     n.coordinates = CASE WHEN row.coordinates IS NOT NULL AND row.coordinates <> '' THEN row.coordinates ELSE NULL END;
 
+
 // Load lake node
 LOAD CSV WITH HEADERS FROM 'file:///csv/lake.csv' AS row
 CREATE (n:Lake)
@@ -114,6 +115,7 @@ LOAD CSV WITH HEADERS FROM 'file:///csv/mountain.csv' AS row
 WITH DISTINCT row.mountains AS mountains
 WHERE mountains IS NOT NULL AND mountains <> ''
 CREATE (:Mountains {name: mountains});
+
 
 // Load organization node
 LOAD CSV WITH HEADERS FROM 'file:///csv/organization.csv' AS row
