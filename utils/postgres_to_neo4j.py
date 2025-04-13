@@ -26,6 +26,7 @@ table_names = [
     "riveronisland", "airport"
 ]
 
+
 for table in table_names:
 
     # load table from postgres
