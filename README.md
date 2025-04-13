@@ -13,6 +13,7 @@ It is based on [DBMSBlockSS25](https://github.com/jeschaef/DBMSBlockSS25) and in
 3. Clone the repository `git clone https://github.com/RomanChristof/DBMS_MONDIAL`
 4. Change into the project directory cd DBMS_MONDIAL
 5. Copy "mondial-inputs.psql" and "mondial-schema.psql" from [MONDIAL](https://www.dbis.informatik.uni-goettingen.de/Mondial/#SQL) to [Postgres folder](scripts/postgres)
+6. Usernames and passwords for the DBMS can be changed in the .env file. 
 
 
 ## Configuration
