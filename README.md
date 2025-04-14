@@ -73,3 +73,7 @@ and
 Please make sure to change you password as defined in `.env`
 
 If you still having issues with the import: copy and past the contents of nodes.cypher and relationships.cypher manually in the query field of the database.
+
+
+## References
+Wolfgang May. *Information Extraction and Integration with Florid: The Mondial Case Study*. Technical Report 131, Universität Freiburg, Institut für Informatik, 1999. Available at: http://dbis.informatik.uni-goettingen.de/Mondial
