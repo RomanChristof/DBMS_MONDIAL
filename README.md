@@ -74,9 +74,9 @@ Please make sure to change you password as defined in `.env`
 
 If you still having issues with the import: copy and past the contents of nodes.cypher and relationships.cypher manually in the query field of the database.
 
-'### Neo4j container doesn't start
+### Neo4j container doesn't start
 If this error `exec /var/lib/neo4j/import/neo4j_entrypoint.sh:` permission denied occurs when starting the container for the first time: 
-Enter `chmod +x scripts/neo4j/neo4j_entrypoint.sh` in your CLI.' 
+Enter `chmod +x scripts/neo4j/neo4j_entrypoint.sh` in your CLI.
 
 
 ## References
