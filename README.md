@@ -48,6 +48,8 @@ If you updated the port mappings, you have to use different urls accordingly.
 
 The username/email and password are the ones defined in .env
 
+For MongoDB, you just have to open the shell and excute `use dbms` in Shell and write the you query as `db.Collection.find()`
+
 
 # Troubleshooting
 
