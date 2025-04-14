@@ -1,31 +1,24 @@
 #!/bin/bash
 
-# Enable job control
-set -m
-
-# Start Cassandra in the background
-/opt/bitnami/scripts/cassandra/entrypoint.sh /opt/bitnami/scripts/cassandra/run.sh &
-
-echo "Waiting for Cassandra to be available ..."
-
-until cqlsh -u "$CASSANDRA_USER" -p "$CASSANDRA_PASSWORD" -e "DESCRIBE KEYSPACES;" > /dev/null 2>&1; do
-  sleep 1
+# Wait until Cassandra responds to cqlsh
+echo "Waiting for Cassandra to be ready..."
+# Wait for cqlsh to respond
+until cqlsh -e "SELECT now() FROM system.local;" >/dev/null 2>&1; do
+  echo " Cassandra not ready yet. Retrying in 5s..."
+  sleep 10
 done
 
-echo "Cassandra is ready. Executing .cql scripts..."
+echo "Cassandra is ready. Running CQL scripts..."
 
-INIT_DIR="/data/cassandra"
+# Run all .cql files in the scripts/cassandra directory
+for file in scripts/*.cql; do
+    echo "Executing $file"
+    cqlsh -f "$file"
+    echo "One file processed ..."
+done
 
-if [ -d "$INIT_DIR" ]; then
-  find "$INIT_DIR" -maxdepth 1 -type f -name "*.cql" -print0 | while IFS= read -r -d '' file; do
-    echo "Running $file..."
-    cqlsh -u "$CASSANDRA_USER" -p "$CASSANDRA_PASSWORD" -f "$file"
-  done
-else
-  echo "No init directory found at $INIT_DIR"
-fi
+echo "Running CQL scripts finished. "
 
-echo "All scripts executed. Cassandra is running."
 
-# Bring Cassandra process to the foreground
-fg %1
+# Optional: keep the container running
+tail -f /dev/null

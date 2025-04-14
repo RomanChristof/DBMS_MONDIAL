@@ -43,8 +43,8 @@ services:
     - CASSANDRA_USER=${CASSANDRA_USER}
     - CASSANDRA_PASSWORD=${CASSANDRA_PASSWORD}
     volumes:
-      - ./cassandra:/scripts
-      - ./docker_entrypoint.sh:/docker-entrypoint.sh 
+      - ./scripts/cassandra/data:/scripts
+      - ./scripts/cassandra/init_cassandra.sh:/docker-entrypoint.sh 
     #command: ["/bin/bash", "/docker-entrypoint.sh"]
     healthcheck:
       test: ["CMD", "cqlsh", "-e", "DESCRIBE KEYSPACES"]
