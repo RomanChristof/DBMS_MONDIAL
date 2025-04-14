@@ -61,7 +61,14 @@ If you have a problem with mongoDB Client and get the `Authentication error` you
 By replacing the `mongo` with your mongo_user_name and the `MONGO_PASSWORD` with your mongo_password.
 
 
-## (Neo4J) Did not load nodes or relationships
+## Neo4J
+
+### Neo4j container doesn't start
+If this error `exec /var/lib/neo4j/import/neo4j_entrypoint.sh:` permission denied occurs when starting the container for the first time: 
+Enter `chmod +x scripts/neo4j/neo4j_entrypoint.sh` in your CLI.
+
+
+### Did not load nodes or relationships
 
 If the .cypher scripts were not executed properly (e.g. do not see node labels or relationship types in your database).
 You can manually run the scripts by entering the following in your CLI: 
@@ -73,10 +80,6 @@ and
 Please make sure to change you password as defined in `.env`
 
 If you still having issues with the import: copy and past the contents of nodes.cypher and relationships.cypher manually in the query field of the database.
-
-### Neo4j container doesn't start
-If this error `exec /var/lib/neo4j/import/neo4j_entrypoint.sh:` permission denied occurs when starting the container for the first time: 
-Enter `chmod +x scripts/neo4j/neo4j_entrypoint.sh` in your CLI.
 
 
 ## References
