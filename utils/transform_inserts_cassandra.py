@@ -11,6 +11,18 @@ load_dotenv()
 def escape_quotes(s):
     return s.replace("'", "''") if s else ''
 
+# Format values safely for CQL with default values
+def format_value(val, quote=True, is_date=False):
+    if val is None:
+        if is_date:
+            return "'1970-01-01'"  # Default fallback date
+        return "''" if quote else "0"  # Default for text or numeric
+    if is_date:
+        return f"'{val.strftime('%Y-%m-%d')}'"
+    if quote:
+        return f"'{escape_quotes(str(val))}'"
+    return str(val)
+
 # Cassandra CREATE TABLE definitions
 TABLES = {
     "city_by_country": """
@@ -113,7 +125,8 @@ def main():
     city_rows = fetch_city_data(cursor)
     city_inserts = [
         f"INSERT INTO city_by_country (country_code, country_name, city_name, province, population, latitude, longitude, elevation) "
-        f"VALUES ('{escape_quotes(r[1])}', '{escape_quotes(r[2])}', '{escape_quotes(r[0])}', '{escape_quotes(r[3])}', {r[4]}, {r[5]}, {r[6]}, {r[7]});"
+        f"VALUES ({format_value(r[1])}, {format_value(r[2])}, {format_value(r[0])}, {format_value(r[3])}, "
+        f"{format_value(r[4], quote=False)}, {format_value(r[5], quote=False)}, {format_value(r[6], quote=False)}, {format_value(r[7], quote=False)});"
         for r in city_rows
     ]
     write_cql_file("city_by_country", TABLES["city_by_country"], city_inserts)
@@ -122,19 +135,19 @@ def main():
     org_rows = fetch_organization_membership(cursor)
     org_inserts = [
         f"INSERT INTO organization_membership_by_country (country_code, country_name, organization_abbr, organization_name, membership_type, established, org_city, org_province) "
-        f"VALUES ('{escape_quotes(r[0])}', '{escape_quotes(r[1])}', '{escape_quotes(r[2])}', '{escape_quotes(r[3])}', '{escape_quotes(r[4])}', "
-        f"'{r[5].strftime('%Y-%m-%d') if r[5] else 'null'}', '{escape_quotes(r[6])}', '{escape_quotes(r[7])}');"
+        f"VALUES ({format_value(r[0])}, {format_value(r[1])}, {format_value(r[2])}, {format_value(r[3])}, {format_value(r[4])}, "
+        f"{format_value(r[5], is_date=True)}, {format_value(r[6])}, {format_value(r[7])});"
         for r in org_rows
     ]
-
     write_cql_file("organization_membership_by_country", TABLES["organization_membership_by_country"], org_inserts)
 
     # Enrich + export political_economy_by_country
     pol_econ_rows = fetch_political_economy(cursor)
     pol_econ_inserts = [
         f"INSERT INTO political_economy_by_country (country_code, GDP_agriculture, GDP_service, GDP_industry, inflation, unemployment, dependent, independence, wasdependent, government) "
-        f"VALUES ('{escape_quotes(r[0])}', {r[1]}, {r[2]}, {r[3]}, {r[4]}, {r[5]}, '{escape_quotes(r[6])}', "
-        f"'{r[7].strftime('%Y-%m-%d') if r[7] else 'null'}', '{escape_quotes(r[8])}', '{escape_quotes(r[9])}');"
+        f"VALUES ({format_value(r[0])}, {format_value(r[1], quote=False)}, {format_value(r[2], quote=False)}, {format_value(r[3], quote=False)}, "
+        f"{format_value(r[4], quote=False)}, {format_value(r[5], quote=False)}, {format_value(r[6])}, "
+        f"{format_value(r[7])}, {format_value(r[8])}, {format_value(r[9])});"
         for r in pol_econ_rows
     ]
     write_cql_file("political_economy_by_country", TABLES["political_economy_by_country"], pol_econ_inserts)

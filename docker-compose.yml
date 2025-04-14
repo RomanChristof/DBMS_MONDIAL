@@ -35,38 +35,23 @@ services:
 
 
   cassandra:
-    image: bitnami/cassandra:latest
-    restart: always
+    image: cassandra:latest
+    container_name: cassandra-container
     ports:
       - "9042:9042"
-    #volumes:
-    #  - ./scripts/cassandra:/docker-entrypoint-initdb.d/
-    #   - ./data/cassandra:/bitnami       # uncomment this line if you want to persist data
     environment:
     - CASSANDRA_USER=${CASSANDRA_USER}
     - CASSANDRA_PASSWORD=${CASSANDRA_PASSWORD}
-    - CASSANDRA_PASSWORD_SEEDER=yes
-    - CASSANDRA_AUTHENTICATOR=PasswordAuthenticator
-
-    healthcheck:
-      test: [ "CMD", "cqlsh", "-u", "${CASSANDRA_USER}", "-p" ,"${CASSANDRA_PASSWORD}"]
-      interval: 20s
-      timeout: 20s
-      retries: 20
-      start_period: 120s
-
-  cql-loader:
-    image: bitnami/cassandra:latest
-    depends_on:
-      cassandra:
-        condition: service_healthy
     volumes:
-      - ./data/cassandra:/data/cassandra                  
-      - ./scripts/cassandra/init_cassandra.sh:/usr/local/bin/load-cql.sh  
-    environment:
-      - CASSANDRA_USER=${CASSANDRA_USER}
-      - CASSANDRA_PASSWORD=${CASSANDRA_PASSWORD}
-    entrypoint: [ "bash", "/usr/local/bin/load-cql.sh" ]
+      - ./cassandra:/scripts
+      - ./docker_entrypoint.sh:/docker-entrypoint.sh 
+    #command: ["/bin/bash", "/docker-entrypoint.sh"]
+    healthcheck:
+      test: ["CMD", "cqlsh", "-e", "DESCRIBE KEYSPACES"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 180s
 
 
   cassandra-web:
