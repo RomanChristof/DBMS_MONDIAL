@@ -34,7 +34,8 @@ The containers can be brought down with `docker compose down` from the CLI.
 
 You can also specify which containers to start, e.g., `docker compose up -d postgres pgadmin` for the PostgreSQL database and client only.
 
-For Cassandra you have to start: `docker compose up -d cassandra cql-loader cassandra-web`
+For Cassandra you have to start: `docker compose up -d cassandra cassandra-web`
+Then run `docker exec -it cassandra-container bash` and `bash docker-entrypoint.sh`.
 
 ## Access the databases
 
